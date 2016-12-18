@@ -1,0 +1,12 @@
+base conversion, 10, 2, 13
+base conversion, 10, 2, 16
+base conversion, 10, 2, 34
+base conversion, 2, 10, 10001
+base conversion, 2, 10, 1111111111111111111111111111111
+min bits, unsigned, 3
+min bits, signed, 3
+min bits, unsigned, 4
+min bits, signed, 4
+min bits, unsigned, 5
+min bits, signed, 5
+min bits, unsigned, 2147483647

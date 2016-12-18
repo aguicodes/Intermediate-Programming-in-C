@@ -1,0 +1,19 @@
+CSE 1104
+CSE 1105
+CSE 1310
+CSE 2320
+PHYS 1443
+MATH 1426
+MATH 1302
+MATH 1323
+ENGL 1301
+ENGL 1302
+science elective
+HIST 1311
+HIST 1312
+CSE 2315
+POLS 2311
+POLS 2312
+fine arts elective
+literature
+social-behavioral

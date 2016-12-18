@@ -1,0 +1,48 @@
+# courses required for BS Computer Science, 2014-2015 catalog
+# course,category,prerequisites,notes
+# preprofessional
+ENGL 1301,preprofessional,none,none
+ENGL 1302,preprofessional,none,none
+MATH 1426,preprofessional,MATH 1323,none
+MATH 2425,preprofessional,MATH 1426,none
+PHYS 1443,preprofessional,MATH 1426,none
+PHYS 1444,preprofessional,PHYS 1443|MATH 2425,none
+CSE 1104,preprofessional,none,none
+CSE 1105,preprofessional,none,none
+CSE 1320,preprofessional,CSE 1104|CSE 1105|CSE 1310|MATH 1323,none
+CSE 1325,preprofessional,CSE 1320,none
+CSE 2312,preprofessional,CSE 1320,none
+CSE 2315,preprofessional,CSE 1310|MATH 1426,none
+CSE 2320,preprofessional,CSE 1320|CSE 2315,none
+# professional
+CSE 3302,professional,CSE 1325|CSE 2320,none
+CSE 3310,professional,CSE 1325|CSE 2315,none
+CSE 3315,professional,CSE 2315,none
+CSE 3320,professional,CSE 2312|IE 3301,none
+CSE 3330,professional,CSE 1325|CSE 2320,none
+CSE 3380,professional,CSE 2315,note: or MATH 3330
+CSE 4314,professional,COMS 2302,none
+CSE 4344,professional,CSE 3320,none
+CSE 4316,professional,CSE 3310|CSE 3320,none
+CSE 4317,professional,CSE 4316,none
+IE 3301,professional,MATH 2425,none
+science elective,professional,none,note: see approved list
+math elective,professional,none,note: see approved list
+# 4000-level CSE courses require admission to the professional program
+# CSE and technical electives list CSE 2320 as a prereq so that these courses don't
+#   show up except when the student is likely to be in the professional program
+CS elective,professional,CSE 2320,note: one of CSE 4303|CSE 4305|CSE 4308
+technical elective 1,professional,CSE 2320,note: see approved list
+technical elective 2,professional,CSE 2320,note: see approved list
+technical elective 3,professional,CSE 2320,note: see approved list
+technical elective 4,professional,CSE 2320,note: see approved list
+technical elective 5,professional,CSE 2320,note: see approved list
+# general education
+COMS 2302,general education,ENGL 1302,none
+HIST 1311,general education,none,none
+HIST 1312,general education,none,none
+POLS 2311,general education,none,none
+POLS 2312,general education,none,none
+fine arts elective,general education,none,note: see approved list
+literature,general education,none,note: see approved list
+social-behavioral,general education,none,note: one of IE 2308|ECON 2305

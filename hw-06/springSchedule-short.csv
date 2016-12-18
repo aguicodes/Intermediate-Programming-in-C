@@ -1,0 +1,1000 @@
+Term Code,Session Code,Campus Code,Subject,Catalog Nbr,Section,Class Nbr,Class Component,Enrollment Total,Enrollment Cap,Enrollment Availability,Waitlist Total,Waitlist Cap,Instructor Name,Instructor Email,Building Code,Room Nbr,Start Time,End Time,M,T,W,Th,F,Sa,Su,Class Start Date,Class End Date
+2152,1,MAIN,SOCW,6390,006,22913,IND  - Independent Study,0,1,1,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,4460,003,21831,PRI  - Private Lesson,0,20,20,0,0,Michael J Drake,mjdrake@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MAE,4301,001,27674,LEC  - Lecture,0,5,5,0,3,,,NH,109,07:00 PM,08:20 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,2403,101,25557,LAB  - Laboratory,11,24,13,0,0,Jonathan W Bredow,jbredow@uta.edu,NH,148A,05:30 PM,08:20 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,068,26055,PRA  - Practicum,1,1,0,0,0,Laura S Frank,laura.frank@mavs.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ARCH,3331,001,20182,LEC  - Lecture,47,61,14,0,0,Edward R Nelson,nelsone@uta.edu,ARCH,401,05:30 PM,06:50 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,6291,007,26391,IND  - Independent Study,0,5,5,0,0,Matthew Fujita,mkfujita@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BE,6194,012,30366,IND  - Independent Study,6,6,0,0,0,Young-Tae Kim,ykim@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,5698,021,27536,THE  - Thesis Research,0,5,5,0,0,Laura D Mydlarz,mydlarz@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EDAD,6399,007,20089,DTN  - Dissertation,2,10,8,0,0,Daniel B Saunders,saunders@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BE,3344,014,26082,LEC  - Lecture,6,10,4,0,0,Baohong Yuan,baohong@uta.edu,ERB,131,11:00 AM,12:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EDAD,6390,011,26017,LEC  - Lecture,0,10,10,0,0,Yi Zhang,lyzhang@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,3454,002,20468,LAB  - Laboratory,31,30,-1,0,0,Nicholas A Long,nicholas.long@mavs.uta.edu,LS,133,01:00 PM,04:50 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,1451,001,22411,LEC  - Lecture,118,140,22,0,0,Seiichiro Tanizaki,tanizaki@uta.edu,SH,121,09:00 AM,09:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ME,6297,039,30394,IND  - Independent Study,1,5,4,0,0,Ashfaq Adnan,aadnan@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,1243,002,21463,PRI  - Private Lesson,1,20,19,0,0,Young-Hyun Cho,yhcho@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,4242,002,21728,PRI  - Private Lesson,0,20,20,0,0,Young-Hyun Cho,yhcho@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EVSE,6399,044,25290,DTN  - Dissertation,1,5,4,0,0,Merlynd K Nestell,nestell@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,EDUC,5314,001,20031,LEC  - Lecture,32,60,28,0,0,Diane Galloway,dianeg@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ENGL,1301,009,20862,LEC  - Lecture,23,24,1,0,0,Jeffrey S Marchand,jeffrey.marchand@mavs.uta.edu,TH,118,11:00 AM,11:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,5320,002,25176,PRI  - Private Lesson,0,5,5,0,0,Soo Hong Kim,soohong@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ENGL,1302,048,20916,LEC  - Lecture,24,24,0,0,0,Robert LaRue,robert.larue@mavs.uta.edu,PH,200,12:30 PM,01:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,3444,102,30092,LAB  - Laboratory,9,24,15,0,0,Wendell A Davis,adavis@uta.edu,NH,148A,10:00 AM,12:50 PM,N,N,N,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,KORE,3304,001,25779,LEC  - Lecture,5,15,10,0,0,Sok Ju Kim,sjukim@uta.edu,TH,211,09:00 AM,09:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CE,5344,001,22189,LEC  - Lecture,36,30,-6,0,0,Mohammad Najafi,najafi@uta.edu,NH,109,07:00 PM,08:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BE,6399,005,26448,IND  - Independent Study,0,5,5,0,0,Liping Tang,ltang@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BE,6195,005,30313,IND  - Independent Study,1,5,4,0,0,Liping Tang,ltang@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,ENGL,2319,008,23359,LEC  - Lecture,33,41,8,0,0,Thomas A Tutt,ttutt@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6851,044,25188,PRA  - Practicum,0,1,1,0,0,,,,,,,,,,,,,,01-20-2015,05-08-2015
+2152,1,MAIN,ENGL,5311,001,29014,SEM  - Seminar,7,13,6,0,0,Timothy Richardson,trichardson@uta.edu,TH,211,06:00 PM,08:50 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EDAD,6390,001,25071,LEC  - Lecture,2,5,3,0,0,Ifeoma A Amah,iamah@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ME,6397,029,29983,IND  - Independent Study,3,5,2,0,0,Dereje Agonafer,agonafer@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ECON,5330,001,29165,LEC  - Lecture,2,5,3,0,0,Christy Spivey,cspivey@uta.edu,COBA,153,12:30 PM,01:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,5126,001,21845,PRI  - Private Lesson,0,20,20,0,0,Cathy Forbes,cforbes@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BE,6395,001,20285,PRA  - Practicum,1,10,9,0,0,Khosrow Behbehani,kb@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MATH,3315,001,22617,LEC  - Lecture,45,50,5,0,0,Mostafa Ghandehari,ghandeha@uta.edu,PKH,107,03:30 PM,04:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,5292,013,24619,IND  - Independent Study,0,10,10,0,0,Subhrangsu S Mandal,smandal@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASA,5391,003,24998,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,ECON,2306,007,23277,LEC  - Lecture,0,5,5,0,0,Timothy A Wunder,tim.wunder@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MILS,2252,002,20065,LEC  - Lecture,9,60,51,0,0,Daniel W Bagby,bagby@uta.edu,CH,101,11:00 AM,12:50 PM,N,N,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,EDUC,5314,002,24112,LEC  - Lecture,0,60,60,0,0,Diane Galloway,dianeg@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,LATN,2313,001,25535,LEC  - Lecture,13,20,7,0,0,Adam Cooper,adcooper@uta.edu,TH,208,10:00 AM,11:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,5698,018,23633,THE  - Thesis Research,3,10,7,0,0,Michael T Manry,manry@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ACCT,3309,006,27298,LEC  - Lecture,59,59,0,0,0,Terra C Mcghee,tcbrown@uta.edu,COBA,256,09:00 AM,11:50 AM,N,N,N,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BSAD,6999,044,30736,DTN  - Dissertation,1,1,0,0,0,Salil K Sarkar,sarkar@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,037,23013,PRA  - Practicum,1,1,0,0,0,Jolynne M Batchelor,jolynne.batchelor@mavs.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MATH,1316,100,22569,LEC  - Lecture,47,48,1,0,0,Xi Chen,chen.xi@mavs.uta.edu,LS,119,02:00 PM,03:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6398,013,27506,THE  - Thesis Research,0,1,1,0,0,,,,,,,,,,,,,,01-20-2015,05-08-2015
+2152,1,MAIN,THEA,3304,001,26544,LEC  - Lecture,8,20,12,0,0,Daniel Archibald,archibald@uta.edu,FA,137,10:00 AM,10:50 AM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ACCT,5311,001,22326,LEC  - Lecture,26,37,11,0,0,Bin Srinidhi,srinidhi@uta.edu,PKH,107,05:30 PM,06:50 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BCMN,3319,001,20500,LEC  - Lecture,26,30,4,0,0,Lance Liguez,liguez@uta.edu,FA,122,09:30 AM,10:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,JOUR,1345,013,29257,LEC  - Lecture,19,20,1,0,0,Brad Loper,bloper@uta.edu,FA,411A,11:00 AM,12:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,CRCJ,3350,103,28861,LEC  - Lecture,14,20,6,0,0,Christopher L Copeland,ccopeland@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,5128,001,21847,PRI  - Private Lesson,0,20,20,0,0,Jack A Unzicker,unzicker@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MAE,3309,001,20348,LEC  - Lecture,18,35,17,0,18,Shailesh Malla,shailesh.malla@uta.edu,WH,311,05:30 PM,06:50 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BE,6697,001,25057,IND  - Independent Study,0,10,10,0,0,Khosrow Behbehani,kb@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,186,30219,PRA  - Practicum,1,1,0,0,0,Cheryl Lynn Foster,fostercheryl@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,NURS,2232,001,30327,LEC  - Lecture,33,50,17,0,0,Lynn Cope,cope@uta.edu,PKH,223,04:00 PM,05:50 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,COMS,1301,002,20518,LEC  - Lecture,27,28,1,0,0,Stacy L Salmon,salmon@uta.edu,FA,122,09:00 AM,09:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,FTWC,OPMA,5364,020,26976,LEC  - Lecture,28,40,12,0,0,Edmund L Prater,eprater@uta.edu,UTASF,114,06:00 PM,10:00 PM,Y,N,N,N,N,N,N,04-11-2015,05-11-2015
+2152,1,MAIN,WOMS,3331,001,23881,LEC  - Lecture,5,5,0,0,0,Beth Anne Shelton,shelton@uta.edu,PKH,204,09:30 AM,10:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6699,005,22968,DTN  - Dissertation,0,1,1,0,0,,,,,,,,,,,,,,01-20-2015,05-08-2015
+2152,1,MAIN,GEOL,5199,001,22695,IND  - Independent Study,13,50,37,0,0,Qinhong Hu,maxhu@uta.edu,GS,100,04:00 PM,04:50 PM,N,N,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,6999,015,21316,DTN  - Dissertation,0,10,10,0,0,Samarendra K Mohanty,smohanty@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EXCH,1491,007,24718,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,FREN,2314,002,23914,LEC  - Lecture,21,25,4,0,0,Alicia L Soueid,soueid@uta.edu,TH,218,10:00 AM,10:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,AE,5391,005,30170,IND  - Independent Study,3,5,2,0,0,Wen S Chan,chan@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,4189,019,30548,IND  - Independent Study,4,5,1,0,0,Joniqua A Howard,jahoward@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,IE,5391,004,22237,IND  - Independent Study,0,10,10,0,0,Herbert W Corley Jr,corley@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MANA,4325,002,20825,LEC  - Lecture,41,50,9,0,0,Katherine Roberto,katherine.roberto@mavs.uta.edu,UH,11,03:00 PM,04:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EXCH,5391,006,24836,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,IE,6397,011,22259,IND  - Independent Study,1,10,9,0,0,Erick C Jones,ecjones@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,INSY,2303,007,29397,LEC  - Lecture,72,72,0,0,0,Indika Dissanayake,indika.dissanayake@mavs.uta.edu,COBA,255,09:30 AM,10:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,049,23025,PRA  - Practicum,1,1,0,0,0,Jolynne M Batchelor,jolynne.batchelor@mavs.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MATH,5392,005,27728,SEM  - Seminar,8,20,12,0,0,Tuncay Aktosun,aktosun@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CSE,5365,001,21965,LEC  - Lecture,12,20,8,0,10,Farhad A Kamangar,kamangar@uta.edu,WH,210,07:00 PM,08:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,4111,011,30191,PRA  - Practicum,1,10,9,0,0,Jack A Unzicker,unzicker@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,UPPP,6399,017,25087,DTN  - Dissertation,1,3,2,0,0,Yekang Ko,yekangko@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BEEP,4687,002,20015,PRA  - Practicum,9,30,21,0,0,Yvonne M Estes,yvonne.estes@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,3457,005,29601,LAB  - Laboratory,24,24,0,0,0,Collin Funkhouser,collin.funkhouser@mavs.uta.edu,LS,129,02:00 PM,04:50 PM,N,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ENGL,2309,003,20992,LEC  - Lecture,27,42,15,0,0,Debra L Olson,dolson@uta.edu,LS,424,11:00 AM,11:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BSAD,7399,067,30282,DTN  - Dissertation,1,3,2,0,0,Sridhar Panchapake Nerur,snerur@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,5391,033,30261,IND  - Independent Study,1,1,0,0,0,Diane M Lange,lange@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6452,071,26107,PRA  - Practicum,1,1,0,0,0,Arati Maleku,arati.maleku@mavs.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,6999,013,21314,DTN  - Dissertation,0,10,10,0,0,Manfred A Cuntz,cuntz@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BSAD,6699,092,30015,DTN  - Dissertation,1,10,9,0,0,Deepak K Datta,ddatta@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MATH,6699,005,28545,DTN  - Dissertation,2,5,3,0,0,Minerva Cordero-Epperson,cordero@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ART,3352,002,28805,LAB  - Laboratory,14,17,3,0,9,Andrew Ortiz,ortiz@uta.edu,FA,368C,10:00 AM,03:50 PM,N,N,N,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ART,4357,001,26700,LAB  - Laboratory,15,15,0,0,8,Pauline Hudel Smith,phudel@uta.edu,FA,358,08:00 AM,10:50 AM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,AS,1181,002,25160,LAB  - Laboratory,0,120,120,0,0,Patrick C Kerr,pckerr@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,6699,004,25922,DTN  - Dissertation,2,10,8,0,0,Purnendu K Dasgupta,dasgupta@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,HIST,5398,024,27759,THE  - Thesis Research,1,5,4,0,0,Gerald D Saxon,saxon@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CRCJ,5396,001,24439,IND  - Independent Study,1,5,4,0,0,Richard A Smith,smithr@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6851,028,23129,PRA  - Practicum,0,1,1,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,4477,001,21837,PRI  - Private Lesson,0,20,20,0,0,Linton E Powell Jr,powell@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,IE,5322,002,23774,LEC  - Lecture,8,10,2,0,0,Brian L Huff,bhuff@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,6291,011,25348,IND  - Independent Study,0,5,5,0,0,Sophia I Passy,sophia.passy@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PSYC,2444,001,22516,LEC  - Lecture,92,100,8,0,0,Madeline Rex-Lear,rexlear@uta.edu,LS,122,03:00 PM,04:20 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,NURS,4462,013,23838,LAB  - Laboratory,8,10,2,0,0,Melissa Lagrone,mlagrone@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,6399,003,23464,DTN  - Dissertation,1,10,9,0,0,Jonathan W Bredow,jbredow@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BE,6297,005,20283,IND  - Independent Study,2,10,8,0,0,Liping Tang,ltang@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,NURS,4441,011,23196,LAB  - Laboratory,7,10,3,0,0,Cheryl L Gainer,gainer@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,012,22988,PRA  - Practicum,1,1,0,0,0,Cheryl Lynn Foster,fostercheryl@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,2250,001,21577,PRI  - Private Lesson,0,20,20,0,0,Michael L Varner,mvarner@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,4380,013,24434,IND  - Independent Study,0,5,5,0,0,Subhrangsu S Mandal,smandal@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,3149,017,20435,PRA  - Practicum,25,30,5,0,0,Judi Elliott,elliottj@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MSE,4354,001,29190,LEC  - Lecture,1,10,9,0,5,Seong Jin Koh,skoh@uta.edu,TH,115,09:30 AM,10:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CIRP,5398,004,26419,THE  - Thesis Research,0,3,3,0,0,Yekang Ko,yekangko@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,5320,005,25328,PRI  - Private Lesson,0,5,5,0,0,Jennifer O Ciobanu,ciobanu@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHIN,1441,001,26842,LEC  - Lecture,22,30,8,0,0,Yi-Ping Wang,yipingw@uta.edu,COBA,138,11:00 AM,11:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MANA,4326,001,20826,LEC  - Lecture,26,46,20,0,0,Alison Vania Hall,avhall@uta.edu,COBA,251,08:00 AM,09:20 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MARK,6302,001,29383,SEM  - Seminar,11,20,9,0,0,Ritesh Saini,saini@uta.edu,COBA,245E,04:00 PM,06:50 PM,N,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,COMM,2315,002,30478,LEC  - Lecture,40,40,0,0,0,Brian W Horton,brianhorton@uta.edu,WH,210,10:00 AM,10:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,1343,001,28715,LAB  - Laboratory,11,24,13,0,0,Jorge H Pinzon,pinzon@uta.edu,LS,214,01:00 PM,04:50 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,NURS,5170,006,23345,IND  - Independent Study,0,2,2,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6393,008,24257,IND  - Independent Study,0,1,1,0,0,,,,,,,,,,,,,,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,1451,104,22415,LAB  - Laboratory,17,24,7,0,0,Siqi Du,siqi.du@mavs.uta.edu,CPB,136,02:00 PM,04:50 PM,N,N,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6452,086,27903,PRA  - Practicum,1,1,0,0,0,Jolynne M Batchelor,jolynne.batchelor@mavs.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BE,6697,002,28145,IND  - Independent Study,1,10,9,0,0,Cheng-Jen Chuong,chuong@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,129,29731,PRA  - Practicum,1,1,0,0,0,Arati Maleku,arati.maleku@mavs.uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,3352,001,21667,PRI  - Private Lesson,0,20,20,0,0,John Solomons,solomons@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EVSE,6997,018,30634,IND  - Independent Study,1,5,4,0,0,Majie Fan,mfan@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,INSY,2303,002,28601,LEC  - Lecture,68,72,4,0,0,Kriti Chauhan,kriti.chauhan@mavs.uta.edu,COBA,255,09:00 AM,09:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,4456,004,21806,PRI  - Private Lesson,0,20,20,0,0,Timothy J Ishii,tishii@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,7399,010,24505,DTN  - Dissertation,0,10,10,0,0,William E Dillon,dillon@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,GEOL,4189,004,30287,IND  - Independent Study,1,5,4,0,0,Merlynd K Nestell,nestell@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,NURS,5329,001,23799,LEC  - Lecture,6,20,14,0,0,Dolores Anne S Aguilar,aguilar@uta.edu,PKH,223,04:00 PM,07:50 PM,N,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,010,22986,PRA  - Practicum,1,1,0,0,0,Cheryl Lynn Foster,fostercheryl@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,SPAN,2313,011,23413,LEC  - Lecture,26,30,4,0,0,Felicia W Dillard,fdillard@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,URPA,5395,012,30787,IND  - Independent Study,1,1,0,0,0,,,,,,,,,,,,,,01-20-2015,05-08-2015
+2152,1,MAIN,EDML,4370,001,20021,LEC  - Lecture,27,45,18,0,0,Leisa A Martin,martin.leisa@uta.edu,SH,129,02:00 PM,04:50 PM,N,N,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,SPAN,2313,012,23953,LEC  - Lecture,21,30,9,0,0,Natalie S Wagener,wagener@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,5129,001,21848,PRI  - Private Lesson,0,20,20,0,0,Brian T Mulholland,bmulholland@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,URPA,5396,008,28417,PRA  - Practicum,0,5,5,0,0,Enid Arvidson,enid@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,6391,025,25111,IND  - Independent Study,0,5,5,0,0,Jonathan A Campbell,campbell@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,AS,3311,001,25158,LEC  - Lecture,0,50,50,0,0,Patrick C Kerr,pckerr@uta.edu,,,12:30 PM,01:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,ENGL,2309,019,23356,LEC  - Lecture,12,41,29,0,0,Elizabeth Neely,eneely@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,6291,023,29814,IND  - Independent Study,1,5,4,0,0,Matthew Walsh,matthew.walsh@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ECON,5312,001,22366,LEC  - Lecture,18,37,19,0,0,Chi-Young Choi,cychoi@uta.edu,COBA,140,05:30 PM,06:50 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASA,3391,029,24953,IND  - Independent Study,1,5,4,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EVSE,5698,042,24625,THE  - Thesis Research,0,5,5,0,0,Andrew Hunt,hunt@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,3358,005,21701,PRI  - Private Lesson,0,20,20,0,0,Kenneth M Edwards II,kedwards@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASA,2391,002,24886,IND  - Independent Study,1,5,4,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,OPMA,5361,080,30057,LEC  - Lecture,50,0,-50,0,0,Edmund L Prater,eprater@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CE,5367,001,22192,LEC  - Lecture,11,25,14,0,0,Xinbao Yu,xinbao@uta.edu,ERB,130,01:00 PM,01:50 PM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,7399,011,21334,DTN  - Dissertation,0,10,10,0,0,Amir Farbin,afarbin@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,4279,064,29933,IND  - Independent Study,3,5,2,0,0,Angela J Liegey-Dougall,adougall@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ENGL,6370,001,26957,SEM  - Seminar,6,13,7,0,0,Stacy Alaimo,alaimo@uta.edu,TH,211,06:00 PM,08:50 PM,N,N,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ENGR,4100,001,24319,PRA  - Practicum,0,30,30,0,0,,,,,,,,,,,,,,01-20-2015,05-08-2015
+2152,1,MAIN,ARCH,4321,001,20155,LEC  - Lecture,5,40,35,0,0,Jerald Wayne Kunkel,jkunkel@uta.edu,CMPC,104,09:00 AM,09:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,5998,001,22505,THE  - Thesis Research,0,5,5,0,0,Daniel W Armstrong,sec4dwa@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EDML,4677,002,20023,PRA  - Practicum,6,15,9,0,0,Diane Galloway,dianeg@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,KINE,5431,001,27125,LEC  - Lecture,14,11,-3,0,0,Meredith Nannette Decker,mdecker@uta.edu,PEB,202,11:00 AM,12:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6190,007,30266,IND  - Independent Study,0,1,1,0,0,,,,,,,,,,,,,,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,2241,005,21533,PRI  - Private Lesson,1,20,19,0,0,Jennifer O Ciobanu,ciobanu@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6349,001,28904,LEC  - Lecture,14,30,16,0,0,Rupal M Parekh,parekhrupal@uta.edu,SWCA,308,07:00 PM,09:50 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,GEOL,1302,002,22660,LEC  - Lecture,69,150,81,0,0,Cornelia Winguth,cwinguth@uta.edu,GS,100,10:00 AM,10:50 AM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,1333,003,28645,LAB  - Laboratory,24,24,0,0,0,Shannon Marie Beston,beston@uta.edu,LS,201,02:00 PM,03:50 PM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ENGL,1302,063,29243,LEC  - Lecture,18,24,6,0,0,Barbi M Fowler,bfowler@uta.edu,PH,207,08:00 AM,08:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,1104,001,23655,LEC  - Lecture,25,30,5,0,0,Samir M Iqbal,smiqbal@uta.edu,NH,100,04:00 PM,04:50 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PUAD,6399,016,23929,DTN  - Dissertation,0,5,5,0,0,Rod Hissong,hissong@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,2380,003,28004,IND  - Independent Study,0,10,10,0,0,Saiful M Chowdhury,schowd@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MATH,4324,001,22632,LEC  - Lecture,30,30,0,0,0,Merlynd K Nestell,nestell@uta.edu,PKH,103,04:00 PM,05:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EDAD,6699,112,29468,DTN  - Dissertation,0,10,10,0,0,Jeanne M Gerlach,gerlach@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASA,2591,004,24915,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASTR,1345,021,28690,LAB  - Laboratory,28,28,0,0,0,James J Davis,james.davis@uta.edu,SH,122,10:00 AM,11:50 AM,N,N,N,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,4391,134,30665,IND  - Independent Study,1,1,0,0,0,Graham G Hunt,gghunt@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MATH,2425,310,24233,LEC  - Lecture,18,25,7,0,0,Richard G Chandler Jr,richard.chandler@mavs.uta.edu,PKH,110,11:00 AM,12:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,COMS,4395,014,30253,PRA  - Practicum,1,15,14,0,0,April N Blount,blount@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EXCH,3391,021,24773,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,OPMA,5364,001,26991,LEC  - Lecture,24,25,1,0,0,Michel E Whittenberg,mwhitten@uta.edu,CH,106,07:00 PM,09:50 PM,N,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,157,29841,PRA  - Practicum,1,1,0,0,0,Jolynne M Batchelor,jolynne.batchelor@mavs.uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EXCH,5691,005,26174,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CRCJ,5698,004,24568,THE  - Thesis Research,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,INSY,4325,001,25977,LEC  - Lecture,22,50,28,0,0,Sridhar Panchapake Nerur,snerur@uta.edu,PKH,102,07:00 PM,09:50 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,ECON,5313,070,30103,LEC  - Lecture,97,0,-97,0,0,Hui Cao,,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MATH,5334,001,29235,LEC  - Lecture,9,30,21,0,0,Barbara A Shipman,bshipman@uta.edu,PKH,302,03:30 PM,04:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,5205,001,21441,PRA  - Practicum,2,15,13,0,0,Soo Hong Kim,soohong@uta.edu,FA,106,02:00 PM,03:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASTR,1346,014,28705,LAB  - Laboratory,11,28,17,0,0,James J Davis,james.davis@uta.edu,SH,127,12:00 PM,01:50 PM,N,N,N,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,1245,003,21472,PRI  - Private Lesson,1,20,19,0,0,John R Burton,jrburton@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,5339,001,21900,PRI  - Private Lesson,1,20,19,0,0,Edward W Jones,edjones@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,4289,008,30617,IND  - Independent Study,1,5,4,0,0,Michelle L Badon,badon@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ME,6397,012,29884,IND  - Independent Study,3,3,0,0,0,Hyejin Moon,hyejin.moon@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,3248,003,21637,PRI  - Private Lesson,0,20,20,0,0,Dennis L Bubert,dbubert@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CSE,5381,001,28825,LEC  - Lecture,10,20,10,0,10,Matthew Wright,mwright@uta.edu,WH,308,03:30 PM,04:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6393,015,24265,IND  - Independent Study,0,1,1,0,0,,,,,,,,,,,,,,01-20-2015,05-08-2015
+2152,1,MAIN,EXCH,4391,015,24816,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PSYC,4181,018,28309,IND  - Independent Study,2,20,18,0,0,Daniel S Levine,levine@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,4242,002,22461,LEC  - Lecture,15,24,9,0,0,Jongyun Heo,jheo@uta.edu,SH,315,01:00 PM,01:50 PM,N,N,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,NURS,5418,017,27351,LAB  - Laboratory,5,8,3,0,0,Ket E Davis,ket.davis@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASTR,1345,015,28684,LAB  - Laboratory,20,20,0,0,0,James J Davis,james.davis@uta.edu,SH,130,10:00 AM,11:50 AM,N,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CSE,6367,001,27178,LEC  - Lecture,19,30,11,0,15,Farhad A Kamangar,kamangar@uta.edu,WH,208,03:30 PM,04:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,151,29835,PRA  - Practicum,1,1,0,0,0,Marcus Crawford,marcus.crawford@mavs.uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,5698,016,21296,THE  - Thesis Research,0,10,10,0,0,Suresh C Sharma,sharma@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,4279,023,27528,IND  - Independent Study,2,5,3,0,0,Matthew Walsh,matthew.walsh@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,6699,010,23532,DTN  - Dissertation,0,10,10,0,0,William E Dillon,dillon@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,5391,007,30728,IND  - Independent Study,1,4,3,0,0,Matthew Fujita,mkfujita@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,2246,008,21556,PRI  - Private Lesson,0,20,20,0,0,Christopher McGuire,mcguire@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,SOCW,5306,004,25616,LEC  - Lecture,1,1,0,0,0,Yvonne Butler,ybutler@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,RUSS,2314,022,20928,LEC  - Lecture,17,25,8,0,0,Lonny R Harrison,lonnyharrison@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASA,2391,010,24894,IND  - Independent Study,1,5,4,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASA,1391,004,24856,IND  - Independent Study,1,5,4,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,ASTR,1345,023,28670,LAB  - Laboratory,27,35,8,0,0,James J Davis,james.davis@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,LARC,5395,001,25991,LEC  - Lecture,7,15,8,0,0,James P Richards Jr,jrichard@uta.edu,ARCH,429,12:00 PM,02:50 PM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,WOMS,2315,001,26818,LEC  - Lecture,28,30,2,0,0,Susan Harper-Bisso,sharper@uta.edu,TH,23,11:00 AM,12:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EDUC,4352,002,20027,LAB  - Laboratory,26,75,49,0,0,Linda Denson,ldenson@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CSE,5335,001,21960,LEC  - Lecture,39,40,1,0,20,Leonidas Fegaras,fegaras@uta.edu,ERB,130,05:30 PM,06:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,GEOL,2446,013,22679,LAB  - Laboratory,17,20,3,0,0,,,GS,207,04:30 PM,07:20 PM,N,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CSE,6388,001,25949,LEC  - Lecture,11,20,9,0,10,Matthew Wright,mwright@uta.edu,UH,13,12:30 PM,01:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,2180,010,25316,IND  - Independent Study,0,5,5,0,0,Peter Kroll,pkroll@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BE,6997,007,25089,IND  - Independent Study,0,10,10,0,0,Digant P Dave,ddave@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,THEA,3302,001,28755,LEC  - Lecture,14,35,21,0,0,Dennis M Maher,dmmaher@uta.edu,FA,303,04:00 PM,06:50 PM,N,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ART,5391,008,28818,IND  - Independent Study,0,15,15,0,0,,,ARCH,329,10:00 AM,03:50 PM,N,N,N,N,N,Y,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,0109,002,21382,PRA  - Practicum,3,4,1,0,0,John Solomons,solomons@uta.edu,FA,2121A,01:00 PM,01:50 PM,N,N,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EDML,4677,001,20022,PRA  - Practicum,10,40,30,0,0,Linda Denson,ldenson@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,NURS,3481,011,23242,LAB  - Laboratory,10,10,0,0,0,Jeffrey A Robbins,jrobbins@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6394,004,22944,IND  - Independent Study,1,1,0,0,0,Vijayan K Pillai,pillai@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MSE,6998,039,26342,IND  - Independent Study,0,5,5,0,3,Seong Jin Koh,skoh@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,5692,004,24595,IND  - Independent Study,2,10,8,0,0,Purnendu K Dasgupta,dasgupta@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,HIST,3377,001,28942,LEC  - Lecture,49,50,1,0,0,Kathryne E Beebe,kbeebe@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,NURS,5303,004,23360,LAB  - Laboratory,7,7,0,0,0,Debra R Lamont,drlamont@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,5318,001,24118,LEC  - Lecture,47,57,10,0,0,Sungyong Jung,jung@uta.edu,NH,110,09:30 AM,10:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,4308,001,21430,LEC  - Lecture,19,30,11,0,0,Douglas Stotter,dstotter@uta.edu,FA,115,09:30 AM,10:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,6699,004,23524,DTN  - Dissertation,1,10,9,0,0,Donald P Butler,dbutler@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MSE,6398,044,26322,IND  - Independent Study,0,5,5,0,3,Fuqiang Liu,fuqiang@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,4391,002,29644,LEC  - Lecture,3,20,17,0,0,David Nygren,nygren@uta.edu,SH,205,04:00 PM,05:20 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,IE,6997,002,22274,IND  - Independent Study,1,10,9,0,0,Jay Michael Rosenberger,jrosenbe@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,NURS,3320,007,23293,LAB  - Laboratory,10,10,0,0,0,Quainshonda Rena Suber,rsuber@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BE,5391,015,28389,IND  - Independent Study,0,10,10,0,0,Jung-Chih Chiao,jcchiao@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CRCJ,2350,001,22147,LEC  - Lecture,60,60,0,0,0,James E Healy Jr,james.healy@uta.edu,UH,104,09:00 AM,09:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,NURS,4351,007,23166,LAB  - Laboratory,10,10,0,0,0,Janeth Stiller,stiller@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ENGL,4399,002,25469,SEM  - Seminar,8,15,7,0,0,Luanne T Frank,lfrank@uta.edu,TH,212,03:30 PM,04:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BE,5698,007,20273,THE  - Thesis Research,0,10,10,0,0,Digant P Dave,ddave@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SPAN,2314,002,21348,LEC  - Lecture,29,30,1,0,0,Jennifer L Omana,jomana@uta.edu,TH,110,09:00 AM,09:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MILS,3342,001,20067,LEC  - Lecture,16,40,24,0,0,Gareth J Kilpatrick,gjkilpat@uta.edu,CH,106,12:30 PM,01:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,2320,002,23662,LEC  - Lecture,58,60,2,0,0,Henry J Kearny,kearny@uta.edu,NH,229,12:30 PM,01:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CE,5353,001,25448,LEC  - Lecture,4,20,16,0,0,Ranjan S Muttiah,muttiah@uta.edu,ERB,129,05:30 PM,06:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MANA,4325,001,20824,LEC  - Lecture,56,59,3,0,0,Dennis C Veit,dveit@uta.edu,COBA,149,10:00 AM,10:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,1444,003,21199,LEC  - Lecture,14,47,33,0,0,Suresh C Sharma,sharma@uta.edu,SH,334,09:30 AM,10:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,5592,003,25379,IND  - Independent Study,0,5,5,0,0,Saiful M Chowdhury,schowd@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,UPPP,6999,010,24700,DTN  - Dissertation,1,5,4,0,0,Enid Arvidson,enid@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,4460,002,21830,PRI  - Private Lesson,0,20,20,0,0,James M Yakas,yakas@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,NURS,3561,010,23228,LAB  - Laboratory,10,10,0,0,0,Susan Elizabeth Walker,swalker@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ENGL,4391,049,30396,LEC  - Lecture,2,1,-1,0,0,Jacqueline Stodnick,stodnick@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,6697,002,23556,IND  - Independent Study,1,10,9,0,0,Kambiz Alavi,alavi@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHIN,3304,001,25430,LEC  - Lecture,6,20,14,0,0,Szu-Yen Liang,syliang@uta.edu,TH,119,11:00 AM,12:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,GEOL,3442,011,22686,LAB  - Laboratory,23,16,-7,0,0,Majie Fan,mfan@uta.edu,GS,207,12:30 PM,03:20 PM,N,N,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,WOMS,3328,002,23944,LEC  - Lecture,5,5,0,0,0,Sara Skiles-duToit,sdutoit@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,GEOL,5381,004,24487,IND  - Independent Study,1,5,4,0,0,Merlynd K Nestell,nestell@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,3407,101,25556,LAB  - Laboratory,14,15,1,0,0,Jung-Chih Chiao,jcchiao@uta.edu,NH,129,01:00 PM,03:50 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,4457,005,21815,PRI  - Private Lesson,0,20,20,0,0,Christopher S Pool,cspool@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,CE,5347,002,28838,LEC  - Lecture,2,10,8,0,0,Dong-Jun Seo,djseo@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,EE,5352,002,25966,LEC  - Lecture,3,5,2,0,0,Michael T Manry,manry@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,4380,009,26524,IND  - Independent Study,0,10,10,0,0,Kayunta Johnson-Winters,kayunta@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,3248,002,21636,PRI  - Private Lesson,0,20,20,0,0,Gerald E Wood,gewood@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,6591,004,27967,IND  - Independent Study,0,5,5,0,0,Shawn Christensen,shawnc@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,4455,002,21799,PRI  - Private Lesson,0,20,20,0,0,Cathy Forbes,cforbes@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,IE,6397,006,22254,IND  - Independent Study,1,10,9,0,0,Brian L Huff,bhuff@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6694,001,22956,IND  - Independent Study,1,1,0,0,0,Schnavia S Hatcher,shatcher@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MATH,5395,004,28172,IND  - Independent Study,2,4,2,0,0,Theresa Anne Jorgensen,jorgensen@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,4380,001,22470,IND  - Independent Study,0,5,5,0,0,Daniel W Armstrong,sec4dwa@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,NURS,5380,001,24569,IND  - Independent Study,1,6,5,0,0,Cheryl Anderson,c.anderson@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,NURS,4351,008,23167,LAB  - Laboratory,10,10,0,0,0,Angela M Trejo,atrejo@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,6699,025,26247,DTN  - Dissertation,1,5,4,0,0,Jonathan A Campbell,campbell@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,NURS,5367,003,29045,LEC  - Lecture,20,20,0,0,0,Rodica S Pop,rpop@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CRCJ,5310,002,29356,LEC  - Lecture,14,15,1,0,0,Seokjin Jeong,sjjeong@uta.edu,FA,412,07:00 PM,09:50 PM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,NURS,4462,003,23828,LAB  - Laboratory,11,10,-1,0,0,Mary Ellen Viancourt,viancourt@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MATH,5699,001,27308,IND  - Independent Study,1,1,0,0,0,James A Epperson,epperson@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,COMS,1301,012,25067,LEC  - Lecture,28,28,0,0,0,April N Blount,blount@uta.edu,TH,101,11:00 AM,12:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PSYC,3302,001,22521,LEC  - Lecture,100,100,0,0,0,Nicolette P Lopez,nlopez@uta.edu,LS,122,03:30 PM,04:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6393,012,24261,IND  - Independent Study,0,1,1,0,0,,,,,,,,,,,,,,01-20-2015,05-08-2015
+2152,1,MAIN,EDAD,6699,009,20100,DTN  - Dissertation,2,5,3,0,0,Maria Trache,mtrache@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,DNCA,0139,001,28615,LAB  - Laboratory,31,35,4,0,0,Danielle M Georgiou,georgiou@uta.edu,SC,126,06:00 PM,07:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PSYC,4181,004,26485,IND  - Independent Study,2,30,28,0,0,Heekyeong Park,hkpark@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,FREN,1442,022,23909,LEC  - Lecture,21,25,4,0,0,Brooke A Cunningham,brooke.cunningham@mavs.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CSE,4392,003,29420,LEC  - Lecture,21,25,4,0,13,David Levine,davel@uta.edu,NH,106,07:00 PM,08:20 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,1441,003,21163,LEC  - Lecture,99,102,3,0,0,Mingwu Jin,mingwu@uta.edu,PKH,204,11:00 AM,12:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,HIST,5390,012,30587,IND  - Independent Study,1,4,3,0,0,John D Garrigus,garrigus@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASA,1391,003,24855,IND  - Independent Study,1,5,4,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SCIE,3302,001,23988,LEC  - Lecture,69,70,1,0,0,Dick Powell,dpowell@uta.edu,SH,101,02:00 PM,03:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,4249,006,27098,PRI  - Private Lesson,0,20,20,0,0,Miranda George,mirandag@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,5368,001,23756,LEC  - Lecture,90,90,0,0,0,Shu-Shaw Wang,peter.wang@uta.edu,NH,105,05:30 PM,08:20 PM,N,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,159,29843,PRA  - Practicum,1,1,0,0,0,Patricia M Lux,pattylux@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ADVT,2337,001,20486,LEC  - Lecture,136,139,3,0,0,Sabrina Williams,shabib@uta.edu,FA,258,11:00 AM,12:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MAE,3360,002,20359,LEC  - Lecture,54,60,6,0,30,Dudley Edington Smith,dudleys@uta.edu,WH,311,09:30 AM,10:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,2243,002,21538,PRI  - Private Lesson,0,20,20,0,0,Young-Hyun Cho,yhcho@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,5461,101,22490,LAB  - Laboratory,1,0,-1,0,0,Chandan Barhate,chandan.barhate@mavs.uta.edu,CPB,215,01:00 PM,04:50 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,IE,4000,006,30749,IND  - Independent Study,1,10,9,0,0,Brian L Huff,bhuff@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MAS,3319,001,27612,LEC  - Lecture,1,5,4,0,0,Jacqueline Renna Burse,jacqueline.burse@mavs.uta.edu,TH,20,04:00 PM,05:20 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MARK,3323,001,21128,LEC  - Lecture,54,55,1,0,0,Linda K Wilson,lkwilson@uta.edu,COBA,151,09:30 AM,10:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,HIST,5390,028,28128,IND  - Independent Study,1,5,4,0,0,Thomas Adam,adam@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ART,3342,001,26631,LAB  - Laboratory,13,18,5,0,9,Justin E Ginsberg,ginsberg@uta.edu,FAA,146,08:00 AM,10:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CSE,1104,002,21907,LEC  - Lecture,93,85,-8,0,43,Linda S Barasch,barasch@uta.edu,NH,100,09:30 AM,10:20 AM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,IE,5191,011,29810,IND  - Independent Study,1,10,9,0,0,Erick C Jones,ecjones@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,3316,001,29631,LEC  - Lecture,6,20,14,0,0,Manfred A Cuntz,cuntz@uta.edu,LS,124,05:30 PM,06:50 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,6291,039,26236,IND  - Independent Study,0,5,5,0,0,Julian G Hurdle,hurdle@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BE,5390,003,20242,IND  - Independent Study,1,10,9,0,0,Georgios Alexandrakis,galex@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASA,4591,004,25040,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SPAN,3319,001,21363,LEC  - Lecture,15,30,15,0,0,Sonia Kania,skania@uta.edu,TH,21,11:00 AM,12:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,7399,033,26230,DTN  - Dissertation,0,2,2,0,0,Maeli Melotto,melotto@exchange.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ENGL,1302,040,20911,LEC  - Lecture,24,24,0,0,0,Catherine L Morphis,catherine.morphis@mavs.uta.edu,PH,202,09:30 AM,10:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,2458,002,20424,LAB  - Laboratory,24,24,0,0,0,Dylan B Parks,dylan.parks@mavs.uta.edu,LS,352,02:00 PM,03:50 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EXCH,1491,002,24713,IND  - Independent Study,1,5,4,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EDAD,1130,004,26013,LEC  - Lecture,22,25,3,0,0,Meighan E Burke,meighan@uta.edu,PH,103,05:00 PM,05:50 PM,N,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,5311,001,20482,LEC  - Lecture,12,15,3,0,0,Paul Chippindale,paulc@uta.edu,LS,118,05:30 PM,06:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,6399,009,23477,DTN  - Dissertation,1,10,9,0,0,Venkat Devarajan,venkat@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,LARC,5302,001,20172,LEC  - Lecture,7,15,8,0,0,Ogden Loeb Bass III,bobass@uta.edu,ARCH,404,07:00 PM,09:50 PM,N,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,3302,002,22715,LEC  - Lecture,30,30,0,0,0,Noelle L Fields,noellefields@uta.edu,SWCA,308,11:00 AM,12:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MATH,1421,401,29573,LAB  - Laboratory,34,35,1,0,0,Sl Ghi Choi,sl-ghi.choi@mavs.uta.edu,PKH,309,08:00 AM,08:50 AM,Y,N,N,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,NURS,5418,016,25591,LAB  - Laboratory,7,7,0,0,0,Kimberly Michelle Wright,kmwright@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CE,6197,001,22200,IND  - Independent Study,0,1,1,0,0,,,,,,,,,,,,,,01-20-2015,05-08-2015
+2152,1,MAIN,MSE,5698,036,28371,THE  - Thesis Research,0,5,5,0,3,Choong-Un Kim,choongun@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,7399,018,24513,DTN  - Dissertation,0,10,10,0,0,Michael T Manry,manry@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,5194,010,26285,IND  - Independent Study,0,5,5,0,0,Wei Chen,weichen@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6452,065,23096,PRA  - Practicum,1,1,0,0,0,Brandi J Felderhoff,brandi.felderhoff@mavs.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EXCH,4391,010,24811,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,2241,003,21532,PRI  - Private Lesson,1,20,19,0,0,David C Grogan,dgrogan@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,4279,032,24683,IND  - Independent Study,0,5,5,0,0,Jill Devito,jilldevito@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,4248,001,21757,PRI  - Private Lesson,0,20,20,0,0,Rickey G Bogard,bogard@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,NURS,3320,013,23299,LAB  - Laboratory,10,10,0,0,0,Quainshonda Rena Suber,rsuber@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,LIST,4373,001,20033,LEC  - Lecture,62,78,16,0,0,Peggy L Semingson,peggys@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ENGL,5391,054,29764,IND  - Independent Study,1,5,4,0,0,Amy L Tigner,atigner@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6851,045,25189,PRA  - Practicum,0,1,1,0,0,,,,,,,,,,,,,,01-20-2015,05-08-2015
+2152,1,MAIN,CSE,5317,001,21957,LEC  - Lecture,19,20,1,0,10,Leonidas Fegaras,fegaras@uta.edu,GS,109,02:00 PM,03:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,6999,030,21323,DTN  - Dissertation,0,10,10,0,0,Andrew White,awhite@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BCMN,2360,001,20499,LEC  - Lecture,46,139,93,0,0,Shannon Delia Zenner,szenner@uta.edu,FA,258,09:00 AM,09:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,STATS,5313,001,24123,LEC  - Lecture,0,10,10,0,0,Shan Sun-Mitchell,shan.sun@uta.edu,PKH,487,11:00 AM,12:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PSYC,4281,009,25126,IND  - Independent Study,2,3,1,0,0,William J Ickes,ickes@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,NURS,5305,001,29046,LEC  - Lecture,22,26,4,0,0,Patti Parker,paparker@uta.edu,PKH,209,09:00 AM,05:00 PM,N,N,N,N,N,Y,N,01-24-2015,05-09-2015
+2152,1,MAIN,CHEM,2285,001,22446,LAB  - Laboratory,18,18,0,0,0,Ruchika P Bhawal,ruchika.bhawal@mavs.uta.edu,SH,125,01:00 PM,02:00 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,5694,029,21280,IND  - Independent Study,1,10,9,0,0,Ali R Koymen,koymen@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,FTWC,SOCW,6314,002,29535,SEM  - Seminar,18,40,22,0,0,Beatrice L Nealy,beanealy@uta.edu,UTASF,114,06:00 PM,09:45 PM,N,N,Y,Y,N,N,N,02-25-2015,04-02-2015
+2152,1,MAIN,BSAD,6399,066,24138,DTN  - Dissertation,2,5,3,0,0,Radha Mahapatra,mahapatra@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BSTAT,3321,005,20747,LEC  - Lecture,62,65,3,0,0,Craig W Slinkman,slinkman@uta.edu,COBA,239,12:30 PM,01:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,IE,5342,001,23779,LEC  - Lecture,58,60,2,0,0,Shernette R Kydd,skydd@uta.edu,WH,404,07:00 PM,08:20 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,LIST,5317,001,24188,PRA  - Practicum,12,60,48,0,0,Kathleen A Tice,ktice@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,UPPP,6399,011,23941,DTN  - Dissertation,0,5,5,0,0,Enid Arvidson,enid@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,3302,001,23671,LEC  - Lecture,35,60,25,0,0,Rasool Kenarangui,kenarang@uta.edu,NH,108,11:00 AM,12:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,5231,001,21871,PRI  - Private Lesson,0,20,20,0,0,Carol A Jessup,jessup@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CRCJ,3340,002,23961,LEC  - Lecture,27,60,33,0,0,Seokjin Jeong,sjjeong@uta.edu,UH,104,02:00 PM,03:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ENGL,1302,031,20902,LEC  - Lecture,20,24,4,0,0,Charles E Hicks,charles.hicks@mavs.uta.edu,PH,207,02:00 PM,02:50 PM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,4326,001,21432,LEC  - Lecture,10,20,10,0,0,Micah Hayes,micah.hayes@uta.edu,FA,301,06:00 PM,08:50 PM,N,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6346,004,22904,PRA  - Practicum,0,1,1,0,0,,,,,,,,,,,,,,01-20-2015,05-08-2015
+2152,1,MAIN,INTD,4191,001,30737,IND  - Independent Study,1,1,0,0,0,Mark D Lamster,lamster@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,4191,025,30171,IND  - Independent Study,1,5,4,0,0,Kenneth M Edwards II,kedwards@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,2300,001,21413,LEC  - Lecture,19,59,40,0,0,Michael L Varner,mvarner@uta.edu,FA,303,02:00 PM,03:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,5398,025,30686,THE  - Thesis Research,0,2,2,0,0,,,,,,,,,,,,,,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,4181,007,24281,IND  - Independent Study,2,15,13,0,0,Jaehoon Yu,jaehoonyu@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,HCAD,5305,050,25562,LEC  - Lecture,26,50,24,0,0,James Eastham,james.eastham@uta.edu,OFF,UCD,06:00 PM,10:00 PM,Y,N,Y,N,N,N,N,04-08-2015,05-11-2015
+2152,1,MAIN,PREL,4316,002,20628,LEC  - Lecture,22,20,-2,0,0,Shelley L Wigley,shelley.wigley@uta.edu,FA,327,12:30 PM,01:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,5325,001,21888,PRI  - Private Lesson,2,20,18,0,0,Alessandra Flanagan,alessandra.flanagan@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BE,5291,001,20220,IND  - Independent Study,0,5,5,0,0,Khosrow Behbehani,kb@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ACCT,3311,001,23858,LEC  - Lecture,34,35,1,0,0,Richard S Mark,richmark@uta.edu,PKH,103,12:30 PM,01:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,6104,012,30083,PRA  - Practicum,1,10,9,0,0,Frederick M Macdonnell,macdonn@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ME,5398,034,29767,THE  - Thesis Research,1,5,4,0,0,Alan P Bowling,bowling@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,KINE,2307,001,20639,LEC  - Lecture,10,10,0,0,0,Abu B Yilla,abu@uta.edu,SH,332,10:00 AM,10:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CE,4352,002,22160,LAB  - Laboratory,31,60,29,0,0,David I Davis,didavis@uta.edu,NH,202,01:00 PM,03:50 PM,N,N,N,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,5224,001,21864,PRI  - Private Lesson,0,20,20,0,0,Daniel M Cavanagh,cavanagh@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,069,26056,PRA  - Practicum,1,1,0,0,0,Jolynne M Batchelor,jolynne.batchelor@mavs.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,1441,002,22371,LEC  - Lecture,148,152,4,0,0,Robin Macaluso,robin.macaluso@uta.edu,SH,100,11:00 AM,12:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6851,036,23137,PRA  - Practicum,0,1,1,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,WOMS,4392,005,29508,LEC  - Lecture,5,5,0,0,0,Jaya B Davis,jbdavis@uta.edu,PKH,103,09:00 AM,09:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BE,6297,006,30674,IND  - Independent Study,1,5,4,0,0,Yi Hong,yihong@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,3249,006,25869,PRI  - Private Lesson,0,20,20,0,0,Miranda George,mirandag@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MARK,5399,001,21146,PRA  - Practicum,0,20,20,0,0,Jeffrey P Wallman,jwallman@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6851,022,23123,PRA  - Practicum,1,1,0,0,0,Bonita B Sharma,bonita.sharma@mavs.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,NURS,5314,004,26958,LAB  - Laboratory,0,8,8,0,0,,,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MAS,3312,001,28766,LEC  - Lecture,2,5,3,0,0,Jennifer L Omana,jomana@uta.edu,TH,202,12:30 PM,01:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,KINE,5694,003,25315,IND  - Independent Study,0,10,10,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PSYC,2443,002,22510,LAB  - Laboratory,27,26,-1,0,0,James Schaeffer,james.schaeffer@mavs.uta.edu,LS,318,05:30 PM,07:20 PM,N,N,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MSE,5698,028,26422,THE  - Thesis Research,0,5,5,0,3,Ping Liu,pliu@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ADVT,4393,001,28853,LEC  - Lecture,12,20,8,0,0,George Hines Weems,gweems@uta.edu,FA,404,02:00 PM,03:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHIL,1301,001,21107,LEC  - Lecture,20,20,0,0,0,Harry P Reeder,reeder@uta.edu,PH,100,09:30 AM,10:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,196,30229,PRA  - Practicum,0,1,1,0,0,,,,,,,,,,,,,,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,5491,001,22491,IND  - Independent Study,0,5,5,0,0,Daniel W Armstrong,sec4dwa@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,3183,003,26149,LAB  - Laboratory,11,12,1,0,0,Ping Liu,pliu@uta.edu,SH,223,01:00 PM,03:50 PM,N,N,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,SOCW,3303,006,26889,LEC  - Lecture,23,29,6,0,0,Janet E Finch,finch@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PSYC,5391,008,27845,IND  - Independent Study,0,30,30,0,0,Martha A Mann,mann@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,OPMA,5364,070,30106,LEC  - Lecture,36,0,-36,0,0,Edmund L Prater,eprater@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,ARCH,2300,200,30712,LEC  - Lecture,1,1,0,0,0,Cheryl Sheree Donaldson,cdonald@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6390,008,22915,IND  - Independent Study,0,1,1,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CE,5379,001,29630,LEC  - Lecture,46,25,-21,0,0,Agustin R Villafana,agustin.villafana@mavs.uta.edu,NH,106,05:30 PM,06:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,REAE,5311,001,28923,LEC  - Lecture,5,40,35,0,0,Sriram Villupuram,sriramv@uta.edu,COBA,253,07:00 PM,08:20 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,6397,002,23587,IND  - Independent Study,1,10,9,0,0,Kambiz Alavi,alavi@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ACCT,5133,001,25789,LEC  - Lecture,37,50,13,0,0,Donald K Mcconnell Jr,mcconnell@uta.edu,COBA,147,07:00 PM,07:50 PM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,SOCI,3328,001,23791,LEC  - Lecture,116,116,0,0,0,Sara Skiles-duToit,sdutoit@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MANA,2302,004,23972,LEC  - Lecture,21,50,29,0,0,Patricia L Crisp,pcrisp@uta.edu,COBA,252,01:00 PM,01:50 PM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ART,2371,002,26627,LAB  - Laboratory,18,18,0,0,9,Sedrick E Huckaby,shuckaby@uta.edu,FAA,122,02:00 PM,04:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MATH,1316,200,22573,LEC  - Lecture,34,34,0,0,0,Nancy A Wolff,wolff@uta.edu,UH,108,03:30 PM,04:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ARCH,4334,001,25570,LEC  - Lecture,6,10,4,0,0,Bradley Bell,bbell@uta.edu,ARCH,324,11:00 AM,11:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,WOMS,4392,001,27391,LEC  - Lecture,4,5,1,0,0,Josephine C Ryan,jcryan@uta.edu,UH,09,03:00 PM,03:50 PM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,IE,6697,011,22271,IND  - Independent Study,0,10,10,0,0,Erick C Jones,ecjones@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,1248,007,27086,PRI  - Private Lesson,1,20,19,0,0,John M Hayes,jmhayes@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ANTH,4342,001,21529,LEC  - Lecture,17,40,23,0,0,Josephine C Ryan,jcryan@uta.edu,UH,09,03:00 PM,03:50 PM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,1250,001,21502,PRI  - Private Lesson,1,20,19,0,0,Michael L Varner,mvarner@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,3350,003,21659,PRI  - Private Lesson,0,20,20,0,0,David C Grogan,dgrogan@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,EE,5348,002,24680,LEC  - Lecture,1,10,9,0,0,Wendell A Davis,adavis@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,4191,005,22757,IND  - Independent Study,4,5,1,0,0,Karen L Jones,karen.jones@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ARCH,4311,002,20183,LEC  - Lecture,9,10,1,0,0,George T Gintole,j.george.g@uta.edu,ARCH,404,07:00 PM,09:50 PM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,4244,003,21733,PRI  - Private Lesson,0,20,20,0,0,John R Burton,jrburton@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,MANA,5320,070,25344,LEC  - Lecture,73,0,-73,0,0,Chunke Su,chunkesu@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,IE,5300,002,28969,LEC  - Lecture,1,10,9,0,0,Shouyi Wang,shouyiw@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,5391,008,30249,SEM  - Seminar,3,5,2,0,0,Zdzislaw E Musielak,zmusiela@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,053,23029,PRA  - Practicum,1,1,0,0,0,Brandi J Felderhoff,brandi.felderhoff@mavs.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,HIST,5391,028,27929,IND  - Independent Study,1,5,4,0,0,Thomas Adam,adam@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,COMS,2302,014,28632,LEC  - Lecture,28,28,0,0,0,Susan M Nead,suzynead@uta.edu,FA,327A,02:00 PM,03:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EDAD,6399,004,20086,DTN  - Dissertation,3,10,7,0,0,James C Hardy,jimhardy@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,3444,004,20460,LAB  - Laboratory,32,32,0,0,0,Anchana Thaweethawakorn,anchana.thaweethawakorn@mavs.uta.edu,LS,338,02:00 PM,04:50 PM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BSAD,6699,070,24156,DTN  - Dissertation,0,5,5,0,0,Riyaz Sikora,rsikora@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,5343,001,23744,LEC  - Lecture,15,15,0,0,0,Zeynep Celik-Butler,zbutler@uta.edu,CMPC,109F,09:00 AM,11:50 AM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,5551,002,22837,PRA  - Practicum,18,25,7,0,0,Donald Schuman,schumand@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,HIST,5391,031,30152,IND  - Independent Study,1,5,4,0,0,Kenyon W Zimmer,kzimmer@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CE,5191,001,22170,IND  - Independent Study,0,1,1,0,0,,,,,,,,,,,,,,01-20-2015,05-08-2015
+2152,1,MAIN,FREN,1441,003,23900,LEC  - Lecture,23,25,2,0,0,Noura Darkazalli,noura.darkazalli@mavs.uta.edu,TH,01,11:00 AM,11:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,HIST,5655,001,29898,PRA  - Practicum,1,5,4,0,0,William M Dulaney,dulaney@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,3427,005,20451,LAB  - Laboratory,24,24,0,0,0,Michelle L Green,mlgreen@uta.edu,LS,140,02:00 PM,04:50 PM,N,N,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6334,001,24088,SEM  - Seminar,12,30,18,0,0,Alicia C Hawley,alicia.hawley@mavs.uta.edu,SWCA,308,08:00 AM,10:50 AM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,1248,001,21492,PRI  - Private Lesson,0,20,20,0,0,Rickey G Bogard,bogard@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,047,23023,PRA  - Practicum,1,1,0,0,0,Bonita B Sharma,bonita.sharma@mavs.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,5314,101,25952,LAB  - Laboratory,11,12,1,0,0,Jason H Losh,jlosh@uta.edu,NH,148,07:00 PM,09:50 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,HIST,5391,010,30722,IND  - Independent Study,1,5,4,0,0,Stephanie Cole,scole@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,SOCW,5301,004,25613,LEC  - Lecture,1,1,0,0,0,Lester R Collins Jr,lester.collins@mavs.uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CE,5383,001,29615,LEC  - Lecture,14,20,6,0,0,Yeonho Park,yeonho.park@mavs.uta.edu,COBA,256,04:00 PM,05:20 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,LING,2371,002,26746,LEC  - Lecture,19,25,6,0,0,Nathaniel James Eversole,nathaniel.eversole@mavs.uta.edu,TH,03,09:30 AM,10:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CE,5368,001,28839,LEC  - Lecture,6,20,14,0,0,Aravind Pedarla,pedarla@uta.edu,CRB,114,02:00 PM,03:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CE,6997,024,30629,IND  - Independent Study,1,10,9,0,0,Xinbao Yu,xinbao@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,4455,004,21801,PRI  - Private Lesson,0,20,20,0,0,Jack A Unzicker,unzicker@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,5698,023,23638,THE  - Thesis Research,0,10,10,0,0,Yuze Sun,sun@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,NURS,5436,005,23514,LAB  - Laboratory,6,6,0,0,0,Diane St Pierre Runnels,stpierre@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MATH,1426,400,22597,LEC  - Lecture,71,70,-1,0,0,Jeremy Aaron Glass,jglass@uta.edu,PKH,319,12:30 PM,01:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,2248,006,27090,PRI  - Private Lesson,0,20,20,0,0,Miranda George,mirandag@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,3253,001,21652,PRI  - Private Lesson,0,20,20,0,0,Brian T Mulholland,bmulholland@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,6391,034,24651,IND  - Independent Study,1,5,4,0,0,Jorge L Rodrigues,jorge@exchange.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,HONR-LA,4303,001,24177,LEC  - Lecture,1,5,4,0,0,A Raymond Elliott,elliott@uta.edu,COBA,152,10:00 AM,10:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EDAD,5384,001,20104,LEC  - Lecture,7,25,18,0,0,Bradley W Davis,bwdavis@uta.edu,SH,105,05:30 PM,08:20 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ENGL,6991,018,30558,IND  - Independent Study,1,5,4,0,0,Kevin L Gustafson,gustafson@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,NURS,6370,016,26317,IND  - Independent Study,1,2,1,0,0,Cheryl Anderson,c.anderson@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ART,4396,004,29205,LEC  - Lecture,12,46,34,0,23,Diantha Maureen Steinhilper,diantha.steinhilper@uta.edu,FA,2102A,12:30 PM,01:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,1442,015,20407,LAB  - Laboratory,24,24,0,0,0,Audra L Andrew,aandrew@uta.edu,LS,226,11:00 AM,12:50 PM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EXCH,2591,004,26183,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MANA,6392,001,27990,IND  - Independent Study,0,5,5,0,0,Margaret A Mcfadyen,mcfadyen@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,4240,003,21719,PRI  - Private Lesson,0,20,20,0,0,David C Grogan,dgrogan@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,085,26072,PRA  - Practicum,1,1,0,0,0,Laura S Frank,laura.frank@mavs.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,DNCE,1300,002,29153,LEC  - Lecture,35,35,0,0,0,Amanda Jackson,amandaj@uta.edu,SH,125,09:00 AM,09:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,KINE,1400,001,20631,LEC  - Lecture,115,112,-3,0,0,Brad Heddins,heddins@uta.edu,MAC,206,08:00 AM,09:20 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MSE,7399,041,29825,DTN  - Dissertation,0,5,5,0,0,Efstathios Meletis,meletis@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BSTAT,3321,006,20748,LEC  - Lecture,39,65,26,0,0,Mark E Eakin,eakin@uta.edu,COBA,339,05:30 PM,06:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EXCH,2591,005,26184,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,NURS,4441,015,30339,LAB  - Laboratory,6,10,4,0,0,Brenda K Hoolapa,hoolapa@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,2241,002,21530,PRI  - Private Lesson,1,20,19,0,0,Soo Hong Kim,soohong@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BSAD,6999,065,24165,DTN  - Dissertation,0,5,5,0,0,Jingguo Wang,jwang@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BEEP,4319,002,29410,LEC  - Lecture,35,70,35,0,0,Luis A Rosado,rosado@uta.edu,UH,10,05:00 PM,07:50 PM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHIL,6394,001,29338,LEC  - Lecture,0,5,5,0,0,Kenneth W Williford Jr,williford@uta.edu,PH,302,04:00 PM,05:20 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PSYC,3318,001,22528,LEC  - Lecture,154,154,0,0,0,Madeline Rex-Lear,rexlear@uta.edu,LS,118,10:00 AM,10:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BEEP,5391,002,29895,IND  - Independent Study,1,2,1,0,0,Luis A Rosado,rosado@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ARCH,4346,001,26036,LEC  - Lecture,7,15,8,0,0,Robert T Hamilton,toddhamilton@uta.edu,CMPC,104,11:00 AM,11:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,NURS,5303,007,23365,LAB  - Laboratory,6,6,0,0,0,Dixie L Stevenson,dixies@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MANA,4322,007,20822,LEC  - Lecture,21,50,29,0,0,Orhan V Ozbek,orhan.ozbek@mavs.uta.edu,PKH,102,07:00 PM,08:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,COMS,4315,001,20562,LEC  - Lecture,22,20,-2,0,0,Charla Markham Shaw,markham@uta.edu,FA,414,10:00 AM,10:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ECON,2305,009,25402,LEC  - Lecture,71,72,1,0,0,Roger Wehr,wehr@uta.edu,COBA,239,05:30 PM,06:50 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MATH,6699,002,27541,DTN  - Dissertation,1,1,0,0,0,James A Epperson,epperson@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SPAN,5190,001,30413,IND  - Independent Study,1,4,3,0,0,Amy M Austin,amaustin@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,IE,6697,001,22261,IND  - Independent Study,0,10,10,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,5398,003,23422,THE  - Thesis Research,0,10,10,0,0,Jonathan W Bredow,jbredow@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,IE,5301,004,30546,LEC  - Lecture,24,80,56,0,0,Aera K Leboulluec,aeral@uta.edu,NH,105,07:00 PM,08:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,JOUR,1345,008,20613,LEC  - Lecture,20,20,0,0,0,Marti Gayle Harvey,mharvey@uta.edu,FA,412,01:00 PM,01:50 PM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ME,6196,015,30510,IND  - Independent Study,2,5,3,0,0,Kent L Lawrence,lawrence@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EXCH,5291,001,24830,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,NURS,3320,015,30422,LAB  - Laboratory,10,10,0,0,0,Carol Harber,harber@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,094,27657,PRA  - Practicum,1,1,0,0,0,Cheryl Lynn Foster,fostercheryl@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,081,26068,PRA  - Practicum,1,1,0,0,0,Marcus Crawford,marcus.crawford@mavs.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PSYC,4381,003,24951,IND  - Independent Study,0,30,30,0,0,Yuan B Peng,ypeng@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ECON,3303,008,29166,LEC  - Lecture,59,59,0,0,0,Rafal B Czajkowski,czajkowski@uta.edu,COBA,149,09:00 AM,11:50 AM,N,N,N,N,N,Y,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,5351,001,29261,LEC  - Lecture,9,25,16,0,0,Diane M Lange,lange@uta.edu,FA,309,06:30 PM,09:20 PM,N,N,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,3301,002,22713,LEC  - Lecture,30,30,0,0,0,Craig Nagoshi,cnagoshi@uta.edu,TH,23,02:00 PM,03:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,6691,025,25099,IND  - Independent Study,0,5,5,0,0,Jonathan A Campbell,campbell@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,4189,010,28415,IND  - Independent Study,0,5,5,0,0,Laura Gough,gough@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,6397,009,23594,IND  - Independent Study,0,10,10,0,0,Venkat Devarajan,venkat@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BSAD,6399,103,26117,DTN  - Dissertation,0,1,1,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,008,22984,PRA  - Practicum,1,1,0,0,0,Arati Maleku,arati.maleku@mavs.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ELED,4687,003,27918,LAB  - Laboratory,12,15,3,0,0,Karen S Allmond,kallmond@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,2112,001,21408,LEC  - Lecture,30,44,14,0,0,Diane M Lange,lange@uta.edu,FA,309,10:00 AM,10:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MARK,5340,001,21142,LEC  - Lecture,14,37,23,0,0,Jeffrey P Wallman,jwallman@uta.edu,COBA,245W,05:30 PM,06:50 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ARCH,5358,001,25574,LAB  - Laboratory,7,5,-2,0,0,Scott T Sumsion,scott.sumsion@mavs.uta.edu,ARCH,324,07:00 PM,09:50 PM,N,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6698,003,22961,THE  - Thesis Research,0,1,1,0,0,,,,,,,,,,,,,,01-20-2015,05-08-2015
+2152,1,OFF-C,CRCJ,4333,003,23260,LEC  - Lecture,0,2,2,0,0,Jaya B Davis,jbdavis@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ARCH,4311,006,25885,LEC  - Lecture,6,10,4,0,0,Joshua M Nason,nason@uta.edu,ARCH,405,09:30 AM,10:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASA,1591,002,24877,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,JOUR,1345,002,23331,LEC  - Lecture,0,1,1,0,0,Patsy Gordon,gordon@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ECON,4311,001,26610,LEC  - Lecture,22,59,37,0,0,Olga Isengildina,isengild@uta.edu,COBA,150,10:00 AM,10:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PSYC,1315,009,29173,LEC  - Lecture,26,111,85,0,0,Meredith M Hartzell,meredith.hartzell@mavs.uta.edu,LS,122,05:30 PM,06:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,JOUR,1345,001,23330,LEC  - Lecture,19,20,1,0,0,Patsy Gordon,gordon@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,3349,017,20445,PRA  - Practicum,27,30,3,0,0,Judi Elliott,elliottj@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EDAD,6399,006,20088,DTN  - Dissertation,0,10,10,0,0,Taryn Ozuna Allen,tozuna@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CRCJ,3340,001,22157,LEC  - Lecture,40,40,0,0,0,Seokjin Jeong,sjjeong@uta.edu,UH,09,09:30 AM,10:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,AE,5332,001,20328,LEC  - Lecture,60,60,0,0,30,Dora Elia Musielak,dmusielak@uta.edu,NH,109,04:00 PM,05:20 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SPAN,2314,003,21349,LEC  - Lecture,17,30,13,0,0,Timothy J Foxsmith,tfoxsmith@uta.edu,PH,210,10:00 AM,10:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,5112,010,30561,LEC  - Lecture,2,5,3,0,0,John R Burton,jrburton@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,THEA,0181,002,21052,PRA  - Practicum,17,25,8,0,0,Julienne A Greer,jgreer@uta.edu,FA,174,01:00 PM,04:50 PM,N,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,5694,016,21275,IND  - Independent Study,0,10,10,0,0,Suresh C Sharma,sharma@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,THEA,4391,010,30705,IND  - Independent Study,5,10,5,0,0,Ann H Healy,healy@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,3427,002,20448,LAB  - Laboratory,24,24,0,0,0,Sarah J Mahon,sarah.mahon@mavs.uta.edu,LS,140,02:00 PM,04:50 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,3457,004,29600,LAB  - Laboratory,24,24,0,0,0,Melissa Walsh,mjwalsh@uta.edu,LS,129,02:00 PM,04:50 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,HIST,1312,016,30609,LEC  - Lecture,60,0,-60,0,0,David C Lafevor,dlafevor@uta.edu,UH,11,02:00 PM,02:50 PM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CSE,5349,001,28823,LEC  - Lecture,14,20,6,0,10,Taylor T Johnson,taylor.johnson@uta.edu,NH,202,03:30 PM,04:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BSAD,6399,105,28274,DTN  - Dissertation,0,1,1,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,NURS,4350,005,23150,LAB  - Laboratory,8,10,2,0,0,Angela M Trejo,atrejo@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,057,26044,PRA  - Practicum,1,1,0,0,0,Cheryl Lynn Foster,fostercheryl@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,6691,034,26159,IND  - Independent Study,1,5,4,0,0,Jorge L Rodrigues,jorge@exchange.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EXCH,3391,017,24769,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BCOM,3360,006,23850,LEC  - Lecture,45,46,1,0,0,Jacqueline S Gill,jgill@uta.edu,COBA,252,05:30 PM,06:50 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,2457,020,29226,LAB  - Laboratory,24,24,0,0,0,Lindsey C Miller,lindseycmiller@mavs.uta.edu,LS,435,05:00 PM,06:50 PM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,0171,014,29285,PRI  - Private Lesson,2,5,3,0,0,Carol A Jessup,jessup@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,1242,002,21461,PRI  - Private Lesson,0,20,20,0,0,Young-Hyun Cho,yhcho@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6851,008,23109,PRA  - Practicum,1,1,0,0,0,Elissa E Madden,elissamadden@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,GEOL,5323,045,25490,LEC  - Lecture,7,30,23,0,0,Jun Hak Lee,junhak@uta.edu,OFF,WEB,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MAE,3182,004,27670,LAB  - Laboratory,19,16,-3,0,8,Luca Maddalena,luca@uta.edu,WH,221,01:00 PM,03:50 PM,N,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,4245,005,21740,PRI  - Private Lesson,0,20,20,0,0,Sergio Espinosa,espinosa@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,CRIJ,3331,001,28409,LEC  - Lecture,11,0,-11,0,0,,,,,,,,,,,,,,01-20-2015,05-08-2015
+2152,1,MAIN,NURS,6621,003,26965,PRA  - Practicum,1,5,4,0,0,Kathryn M Daniel,kdaniel@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,THEA,1342,006,28612,LEC  - Lecture,100,100,0,0,0,Natalie Jane Gaupp,ngaupp@uta.edu,SH,103,11:00 AM,12:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CE,5391,001,22194,IND  - Independent Study,0,1,1,0,0,,,,,,,,,,,,,,01-20-2015,05-08-2015
+2152,1,MAIN,CSE,5329,003,28827,LEC  - Lecture,0,30,30,0,15,David C Kung,kung@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ENGL,2329,010,21018,LEC  - Lecture,37,42,5,0,0,Wayne L Gay,wgay@uta.edu,FA,409,07:00 PM,08:20 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,EE,5364,002,23821,LEC  - Lecture,10,15,5,0,0,Qilian Liang,liang@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCI,4309,001,29375,LEC  - Lecture,7,12,5,0,0,Ben Agger,agger@uta.edu,PH,210,02:00 PM,04:50 PM,N,N,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASTR,1346,001,28692,LEC  - Lecture,145,150,5,0,0,Nilakshi Veerabathina,nilakshi@uta.edu,SH,101,11:00 AM,11:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,5692,009,24600,IND  - Independent Study,0,10,10,0,0,Kayunta Johnson-Winters,kayunta@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,2457,006,20419,LAB  - Laboratory,24,24,0,0,0,Richard H Adams,richard.adams@mavs.uta.edu,LS,435,02:00 PM,03:50 PM,N,N,N,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ART,2353,001,29269,LEC  - Lecture,11,15,4,0,8,Tuan C Ho,tuanho@uta.edu,FA,368B,11:00 AM,01:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,GERM,2314,001,21373,LEC  - Lecture,15,25,10,0,0,Ketevan Karukhnishvili,ketevan.karukhnishvili@uta.edu,SWCA,308,11:00 AM,11:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,1441,002,20374,LEC  - Lecture,188,189,1,0,0,Lee Ann Frederick,leeann@uta.edu,LS,119,10:00 AM,10:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,SOCW,3305,003,23387,LEC  - Lecture,30,29,-1,0,0,Youn Kyoung Kim,younkyoung.kim@mavs.uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MATH,5358,001,27489,LEC  - Lecture,6,20,14,0,0,Doyle L Hawkins Jr,hawkins@uta.edu,PKH,302,02:30 PM,03:50 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SPAN,1442,004,20966,LEC  - Lecture,28,30,2,0,0,Rosa Barrett,rosa.barrett@mavs.uta.edu,TH,23,10:00 AM,10:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,075,26062,PRA  - Practicum,1,1,0,0,0,Marcella T Smith,marcellasmith@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,GEOL,5372,011,24383,LAB  - Laboratory,15,20,5,0,0,John S Wickham,wickham@uta.edu,GS,202,07:00 PM,07:50 PM,N,N,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ART,4340,001,29622,LAB  - Laboratory,10,18,8,0,9,Jean Fernandes,jean.fernandes@mavs.uta.edu,FAA,145,08:00 AM,10:50 AM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,4291,007,28959,IND  - Independent Study,1,5,4,0,0,Young-Hyun Cho,yhcho@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PSYC,5351,003,30471,IND  - Independent Study,4,10,6,0,0,Yuan B Peng,ypeng@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,HIST,6699,009,26203,DTN  - Dissertation,0,1,1,0,0,Alusine Jalloh,jalloh@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,6699,026,23550,DTN  - Dissertation,0,10,10,0,0,David A Wetz,wetz@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,3427,001,20447,LEC  - Lecture,96,96,0,0,0,Gretchen Lee Gann,ggann@uta.edu,LS,124,11:00 AM,12:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,5310,008,30565,SEM  - Seminar,21,25,4,0,0,Constance A Burdick,constanceburdick@uta.edu,COBA,141,07:00 PM,09:50 PM,N,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,198,30231,PRA  - Practicum,0,1,1,0,0,,,,,,,,,,,,,,01-20-2015,05-08-2015
+2152,1,MAIN,MAE,3182,002,20341,LAB  - Laboratory,15,16,1,0,8,Luca Maddalena,luca@uta.edu,WH,221,02:00 PM,04:50 PM,N,N,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ART,5391,004,28814,IND  - Independent Study,0,15,15,0,0,,,FA,327A,10:00 AM,03:50 PM,N,N,N,N,N,Y,N,01-20-2015,05-08-2015
+2152,1,MAIN,POLS,3316,001,28880,LEC  - Lecture,34,38,4,0,0,Dale Story,story@uta.edu,UH,01,07:00 PM,09:50 PM,N,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,NURS,5552,002,25595,LAB  - Laboratory,6,6,0,0,0,Patti Parker,paparker@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,MANA,5340,070,26413,LEC  - Lecture,33,0,-33,0,0,George S Benson,benson@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CSE,1105,002,21910,LEC  - Lecture,105,110,5,0,55,Eric W Becker,becker@uta.edu,NH,106,11:00 AM,11:50 AM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PSYC,5391,010,26156,IND  - Independent Study,1,30,29,0,0,Jeffrey R Gagne,jgagne@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,LING,5395,001,20124,PRA  - Practicum,1,15,14,0,0,Traci P Weast,weast@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BE,5698,001,20269,THE  - Thesis Research,2,10,8,0,0,Khosrow Behbehani,kb@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,GEOL,4289,002,29546,IND  - Independent Study,0,5,5,0,0,Qinhong Hu,maxhu@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ME,5698,013,30667,THE  - Thesis Research,1,5,4,0,0,Brian Dennis,dennisb@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6398,004,22949,THE  - Thesis Research,1,1,0,0,0,Eusebius Small,esmall@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ENGL,6699,028,30641,DTN  - Dissertation,1,5,4,0,0,Kenneth M Roemer,roemer@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,NURS,5315,001,23391,LEC  - Lecture,59,100,41,0,0,Nancy Handy,nhandy@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CE,5303,001,29607,LEC  - Lecture,23,30,7,0,0,Seyedali Abolmaali,abolmaali@uta.edu,NH,108,10:00 AM,10:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,6697,009,23563,IND  - Independent Study,2,10,8,0,0,Venkat Devarajan,venkat@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,122,29724,PRA  - Practicum,1,1,0,0,0,Susan Lynn Clark,susanclark@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,6591,033,25274,IND  - Independent Study,0,5,5,0,0,Maeli Melotto,melotto@exchange.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,5698,020,25340,THE  - Thesis Research,0,5,5,0,0,Paul Chippindale,paulc@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ENGL,1301,006,20860,LEC  - Lecture,23,24,1,0,0,Connor Alan Stratman,connor.stratman@mavs.uta.edu,TH,03,10:00 AM,10:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCI,5393,009,30496,THE  - Thesis Research,1,1,0,0,0,Robert M Kunovich,kunovich@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,4319,001,25796,LEC  - Lecture,21,30,9,0,0,Ramon Edgardo Lopez,relopez@uta.edu,SH,205,12:30 PM,01:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SPAN,1441,020,25439,LEC  - Lecture,24,30,6,0,0,Patricia M Hopkins,pmhopkins@uta.edu,TH,216,07:00 PM,08:20 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASA,3591,002,24987,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BLAW,3310,001,27301,LEC  - Lecture,52,100,48,0,0,Charles D Miller,cdmiller@uta.edu,COBA,142,09:00 AM,09:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MARK,3322,004,27414,LEC  - Lecture,34,46,12,0,0,Linda K Wilson,lkwilson@uta.edu,COBA,254,07:00 PM,08:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EXCH,1191,003,24693,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,IE,6999,004,29084,DTN  - Dissertation,0,10,10,0,0,,,,,,,,,,,,,,01-20-2015,05-08-2015
+2152,1,MAIN,PSYC,5391,007,24441,IND  - Independent Study,1,30,29,0,0,Perry Fuchs,fuchs@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,7399,012,24507,DTN  - Dissertation,0,10,10,0,0,Sungyong Jung,jung@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASA,4391,021,25022,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,5292,002,24608,IND  - Independent Study,1,10,9,0,0,Alejan Bugarin Cervantes,bugarin@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6851,024,23125,PRA  - Practicum,1,1,0,0,0,Arati Maleku,arati.maleku@mavs.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ENGL,1301,011,20864,LEC  - Lecture,22,22,0,0,0,Jeffrey S Marchand,jeffrey.marchand@mavs.uta.edu,TH,102,01:00 PM,01:50 PM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,LATN,4391,001,28763,IND  - Independent Study,2,20,18,0,0,Adam Cooper,adcooper@uta.edu,PH,100,01:00 PM,01:50 PM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,1441,110,22380,LAB  - Laboratory,23,24,1,0,0,Bruno A Arce,bruno.arce@mavs.uta.edu,CPB,105,08:00 AM,11:50 AM,N,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,6699,016,25932,DTN  - Dissertation,1,10,9,0,0,Kevin A Schug,kschug@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6452,112,29951,PRA  - Practicum,1,1,0,0,0,Laura S Frank,laura.frank@mavs.uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,HIST,1312,007,20709,LEC  - Lecture,19,121,102,0,0,Isabelle Y Rispler,isabelle.rispler@mavs.uta.edu,UH,10,05:30 PM,06:50 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,ENGL,1302,074,23349,LEC  - Lecture,23,23,0,0,0,Dianne Pearman,dpearman@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ENGL,7399,054,30138,DTN  - Dissertation,1,5,4,0,0,Amy L Tigner,atigner@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,IE,5338,004,25259,LAB  - Laboratory,2,10,8,0,0,Sheik N Imrhan,imrhan@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,NURS,5306,006,24407,LAB  - Laboratory,6,6,0,0,0,Linda M Grande,grande@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASA,3591,007,24992,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,3355,003,21678,PRI  - Private Lesson,0,20,20,0,0,John R Burton,jrburton@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CE,4391,001,22168,IND  - Independent Study,1,5,4,0,0,Seyedali Abolmaali,abolmaali@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,6191,011,24671,IND  - Independent Study,0,5,5,0,0,Sophia I Passy,sophia.passy@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,NURS,5366,003,29515,LEC  - Lecture,8,20,12,0,0,Lauri D John,ljohn@uta.edu,PKH,209,01:00 PM,07:00 PM,N,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,6999,017,21318,DTN  - Dissertation,1,10,9,0,0,Muhammad N Huda,huda@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PSYC,5291,016,25123,IND  - Independent Study,0,20,20,0,0,Angela J Liegey-Dougall,adougall@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,7399,024,24519,DTN  - Dissertation,1,10,9,0,0,Saibun Tjuatja,tjuatja@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,NURS,5444,003,23519,LAB  - Laboratory,6,7,1,0,0,Sara E Moore,moores@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MAE,2312,003,26760,LEC  - Lecture,35,40,5,0,20,John M Kebrle,kebrle@uta.edu,WH,210,05:30 PM,06:50 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CSE,1104,003,21908,LEC  - Lecture,85,0,-85,0,43,Linda S Barasch,barasch@uta.edu,NH,100,04:00 PM,04:50 PM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BE,5390,002,20241,IND  - Independent Study,0,10,10,0,0,Cheng-Jen Chuong,chuong@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,LING,5300,001,23951,LEC  - Lecture,3,10,7,0,0,Suwon Yoon,suwon.yoon@uta.edu,SH,129,05:30 PM,08:20 PM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MAS,2300,001,21558,LEC  - Lecture,30,31,1,0,0,Cristina Salinas,csalinas@uta.edu,UH,02,09:00 AM,09:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,3358,007,27096,PRI  - Private Lesson,0,20,20,0,0,John M Hayes,jmhayes@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,3245,002,21614,PRI  - Private Lesson,2,20,18,0,0,Cathy Forbes,cforbes@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,018,22994,PRA  - Practicum,1,1,0,0,0,Arati Maleku,arati.maleku@mavs.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CSE,2320,003,30440,LEC  - Lecture,26,40,14,0,20,Yuanzhe Cai,yuanzhe.cai@mavs.uta.edu,GS,104,03:30 PM,04:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,IE,5391,009,22242,IND  - Independent Study,1,10,9,0,0,John W Priest,jpriest@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ENGL,1302,013,20884,LEC  - Lecture,24,24,0,0,0,Paul David Lee,paullee@uta.edu,PH,206,10:00 AM,10:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,INTS,4391,002,30017,LEC  - Lecture,19,30,11,0,0,Ray C Jordan II,rcjordan@uta.edu,TH,20,07:00 PM,08:20 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ARCH,5698,001,20170,THE  - Thesis Research,0,20,20,0,0,Bijan Youssefzadeh,bijan@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,121,28733,PRA  - Practicum,1,1,0,0,0,Arati Maleku,arati.maleku@mavs.uta.edu,,,,,N,N,N,N,N,N,N,01-21-2015,05-06-2015
+2152,1,MAIN,SCIE,3305,001,23991,LEC  - Lecture,55,64,9,0,0,Marius Pfeiffer,marius.pfeiffer@uta.edu,LS,100,07:00 PM,08:20 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EXCH,3391,036,24788,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,REAE,3325,002,20583,LEC  - Lecture,129,130,1,0,0,Steve E Isbell Jr,sisbell@uta.edu,COBA,245W,12:30 PM,01:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MSE,6698,011,30123,IND  - Independent Study,1,5,4,0,0,Joseph H Ngai,jngai@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6851,026,23127,PRA  - Practicum,0,1,1,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,3331,064,27580,IND  - Independent Study,1,15,14,0,0,Angela J Liegey-Dougall,adougall@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ACCT,3312,001,23859,LEC  - Lecture,18,59,41,0,0,Thomas W Hall,wave@uta.edu,COBA,149,04:00 PM,05:20 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,LARC,5321,001,20173,LEC  - Lecture,9,10,1,0,0,Taner R Ozdil,tozdil@uta.edu,ARCH,319,12:00 PM,02:50 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,ENGL,1301,029,23337,LEC  - Lecture,21,23,2,0,0,Pamela K Rollins,prollins@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BSAD,6699,110,29490,DTN  - Dissertation,1,5,4,0,0,Ritesh Saini,saini@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,1143,001,25645,PRI  - Private Lesson,1,20,19,0,0,John Solomons,solomons@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ENGL,2338,004,24026,LEC  - Lecture,21,22,1,0,0,Tanya A Hooper,tanyah@uta.edu,PH,310,02:00 PM,02:50 PM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CE,6699,012,30415,DTN  - Dissertation,1,10,9,0,0,Seyedali Abolmaali,abolmaali@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ENGL,6391,001,30324,IND  - Independent Study,1,5,4,0,0,Stacy Alaimo,alaimo@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BE,4391,015,27364,PRA  - Practicum,0,10,10,0,0,Jung-Chih Chiao,jcchiao@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,POLS,2312,007,21103,LEC  - Lecture,205,205,0,0,0,Daniel D Sledge,dsledge@uta.edu,SWCA,109,11:00 AM,12:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHIL,3319,001,28761,LEC  - Lecture,25,25,0,0,0,Keith Burgess-Jackson,kbj@uta.edu,TH,20,12:30 PM,01:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,5107,001,21443,PRA  - Practicum,6,10,4,0,0,Timothy J Ishii,tishii@uta.edu,FA,115,04:00 PM,05:20 PM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CE,6997,019,30523,IND  - Independent Study,0,10,10,0,0,Shih-Ho Chao,shchao@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ARCH,5315,001,25884,LEC  - Lecture,1,5,4,0,0,Douglas M Klahr,klahr@uta.edu,ARCH,329,11:00 AM,12:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CSE,4316,001,21942,LEC  - Lecture,23,25,2,0,13,Christopher Dale McMurrough,mcmurrough@uta.edu,ERB,103,11:00 AM,11:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,6699,034,29922,DTN  - Dissertation,1,2,1,0,0,Jorge L Rodrigues,jorge@exchange.uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,5343,001,27121,PRI  - Private Lesson,1,20,19,0,0,Samuel M Walker,smwalker@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,3241,005,21602,PRI  - Private Lesson,0,20,20,0,0,Jennifer O Ciobanu,ciobanu@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MSE,6699,002,26521,DTN  - Dissertation,1,5,4,0,3,Pranesh B Aswath,aswath@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,5394,002,21242,IND  - Independent Study,0,10,10,0,0,Yue Deng,yuedeng@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,BIOL,1334,007,28663,LEC  - Lecture,38,100,62,0,0,Timothy L Henry,dr.henry@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASA,4391,017,25017,IND  - Independent Study,1,5,4,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,5394,029,21259,IND  - Independent Study,1,10,9,0,0,Ali R Koymen,koymen@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,4327,001,29174,LEC  - Lecture,26,50,24,0,0,Craig Nagoshi,cnagoshi@uta.edu,LS,100,09:30 AM,10:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MAE,3183,004,25521,LAB  - Laboratory,6,16,10,0,8,Panayiotis S Shiakolas,shiakolas@uta.edu,WH,219,02:00 PM,04:50 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SPAN,2315,001,25440,LEC  - Lecture,27,30,3,0,0,A Raymond Elliott,elliott@uta.edu,LS,101,11:00 AM,11:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,5698,022,23637,THE  - Thesis Research,1,10,9,0,0,Ioannis D Schizas,schizas@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EDAD,7399,007,27448,DTN  - Dissertation,0,10,10,0,0,Daniel B Saunders,saunders@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ARCH,5391,004,28525,IND  - Independent Study,1,1,0,0,0,Rebecca L Boles,rboles@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,6399,008,23475,DTN  - Dissertation,2,10,8,0,0,Ali Davoudi,davoudi@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,TRANUTOC,3000,003,30435,LEC  - Lecture,2,0,-2,0,0,,,,,,,,,,,,,,01-20-2015,05-08-2015
+2152,1,MAIN,PSYC,1315,002,29170,LEC  - Lecture,93,111,18,0,0,Priya Anapurna Iyer Eimerbrink,piyer@uta.edu,LS,122,11:00 AM,11:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,2155,001,25172,PRI  - Private Lesson,0,20,20,0,0,Daniel M Cavanagh,cavanagh@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,2457,019,29225,LAB  - Laboratory,23,24,1,0,0,Matthew A Moseley,matthew.moseley@mavs.uta.edu,LS,435,05:00 PM,06:50 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6452,040,23071,PRA  - Practicum,1,1,0,0,0,Cheryl Lynn Foster,fostercheryl@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EXCH,3391,015,24767,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,1442,118,26294,LAB  - Laboratory,0,0,0,0,0,,,CPB,134,06:00 PM,09:50 PM,N,N,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASA,4391,006,25006,IND  - Independent Study,1,5,4,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,080,26067,PRA  - Practicum,1,1,0,0,0,Jolynne M Batchelor,jolynne.batchelor@mavs.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,5101,003,29163,SEM  - Seminar,10,20,10,0,0,Sophia I Passy,sophia.passy@uta.edu,LS,102,04:00 PM,04:50 PM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,1300,001,21401,LEC  - Lecture,251,250,-1,0,0,Sergio Espinosa,espinosa@uta.edu,UH,108,11:00 AM,11:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,5398,009,30498,THE  - Thesis Research,1,5,4,0,0,Kayunta Johnson-Winters,kayunta@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,1442,109,22400,LAB  - Laboratory,13,24,11,0,0,Philip Michael Palacios,philip.palacios@mavs.uta.edu,CPB,132,08:00 AM,11:50 AM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,5698,018,25397,THE  - Thesis Research,0,10,10,0,0,Joseph H Ngai,jngai@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ENGL,6399,016,30457,DTN  - Dissertation,1,5,4,0,0,Timothy R Morris,tmorris@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,117,28047,PRA  - Practicum,1,1,0,0,0,Marcella T Smith,marcellasmith@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,KINE,5338,002,27387,LAB  - Laboratory,5,10,5,0,0,Judy R Wilson,jrwilson@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,096,27658,PRA  - Practicum,1,1,0,0,0,Patricia M Lux,pattylux@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,CE,5368,003,30462,LEC  - Lecture,1,2,1,0,0,Aravind Pedarla,pedarla@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ENGL,2309,007,20997,LEC  - Lecture,41,42,1,0,0,Nancy Tia Padorr-Black,tiablack@uta.edu,PKH,109,09:30 AM,10:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,5698,021,23636,THE  - Thesis Research,7,10,3,0,0,Kamisetty R Rao,rao@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASA,4391,004,25004,IND  - Independent Study,1,5,4,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CE,6297,018,30526,IND  - Independent Study,1,10,9,0,0,Andrew P Kruzic,kruzic@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PSYC,6999,011,26212,DTN  - Dissertation,0,30,30,0,0,Jared B Kenworthy,kenworthy@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,HEED,3305,002,24208,LEC  - Lecture,63,60,-3,0,0,Rebecca A Crow,bcrow@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,CE,5377,003,30791,LEC  - Lecture,1,1,0,0,0,Daniel J Darrouzet,darrouzet@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MATH,1421,150,30207,LEC  - Lecture,47,40,-7,0,0,Julie M Sutton,julie.sutton@mavs.uta.edu,PKH,110,01:00 PM,01:50 PM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,5305,001,25552,LEC  - Lecture,25,20,-5,0,0,Daniel W Armstrong,sec4dwa@uta.edu,SH,315,11:00 AM,11:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,COMS,2302,007,28625,LEC  - Lecture,28,28,0,0,0,Melinda Long,mmlong@uta.edu,FA,122,06:00 PM,08:50 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,6399,006,23471,DTN  - Dissertation,0,10,10,0,0,Jung-Chih Chiao,jcchiao@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,125,29727,PRA  - Practicum,1,1,0,0,0,Bonita B Sharma,bonita.sharma@mavs.uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,EE,5321,002,25879,LEC  - Lecture,4,15,11,0,0,Michael A Niestroy,mniestroy@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,6399,004,24669,DTN  - Dissertation,0,10,10,0,0,Purnendu K Dasgupta,dasgupta@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CSE,6329,001,29378,LEC  - Lecture,30,30,0,0,15,Anam Charan Sahoo,anam.sahoo@mavs.uta.edu,WH,208,05:30 PM,08:20 PM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CE,1252,102,28635,LAB  - Laboratory,8,25,17,0,0,Raad K Azzawi,azzawi@uta.edu,NH,239,03:00 PM,04:50 PM,N,Y,N,N,N,N,N,01-20-2015,08-05-2015
+2152,1,MAIN,PHYS,6699,002,30157,DTN  - Dissertation,1,4,3,0,0,Yue Deng,yuedeng@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,5360,001,23754,LEC  - Lecture,97,96,-1,0,0,Ishrat Maherin,ishrat.maherin@mavs.uta.edu,NH,105,07:00 PM,09:50 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,6391,002,27538,IND  - Independent Study,0,5,5,0,0,Todd Castoe,todd.castoe@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,6699,005,23525,DTN  - Dissertation,2,10,8,0,0,Zeynep Celik-Butler,zbutler@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EDCO,5243,001,26548,LEC  - Lecture,16,25,9,0,0,Mary L Crow,mlcrow@uta.edu,LS,102,05:30 PM,07:20 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ACCT,4302,001,22319,LEC  - Lecture,59,59,0,0,0,Stephanie J Rasmussen,srasmuss@uta.edu,COBA,150,04:00 PM,05:20 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CE,6697,011,29761,IND  - Independent Study,0,10,10,0,0,Siamak A Ardekani,ardekani@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,4189,031,25117,IND  - Independent Study,0,5,5,0,0,Eric N Smith,e.smith@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,6397,019,23604,IND  - Independent Study,0,10,10,0,0,Soontorn Oraintara,oraintar@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ART,1309,001,20188,LEC  - Lecture,51,50,-1,0,25,Cheryl A Mitchell,cherylm@uta.edu,FA,148,11:00 AM,12:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,MANA,5331,071,30377,LEC  - Lecture,75,0,-75,0,0,Abdul A Rasheed,abdul@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SPAN,5314,001,29003,LEC  - Lecture,8,25,17,0,0,Amy M Austin,amaustin@uta.edu,PH,200,05:00 PM,07:50 PM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,0114,001,21386,PRA  - Practicum,14,30,16,0,0,Michael L Varner,mvarner@uta.edu,FA,226,11:00 AM,11:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,5232,001,21872,PRI  - Private Lesson,0,20,20,0,0,Rogene R Howard,rrhoward@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,HIST,5698,024,27622,THE  - Thesis Research,1,5,4,0,0,Gerald D Saxon,saxon@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MANA,3318,012,20797,LEC  - Lecture,43,59,16,0,0,Terrance A Wilensky,twilensky@uta.edu,COBA,243,08:00 AM,08:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6851,005,23106,PRA  - Practicum,1,1,0,0,0,Cheryl Lynn Foster,fostercheryl@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,1443,005,21190,LAB  - Laboratory,22,35,13,0,0,Kamal R Dhakal,kamal.dhakal@mavs.uta.edu,SH,114,11:00 AM,01:50 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EDAD,6699,102,29458,DTN  - Dissertation,0,10,10,0,0,Casey G Brown,cgbrown@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,5356,001,23752,LEC  - Lecture,145,140,-5,0,0,Kamisetty R Rao,rao@uta.edu,GS,100,02:00 PM,03:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,4281,007,24280,IND  - Independent Study,1,15,14,0,0,Jaehoon Yu,jaehoonyu@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,SOCW,5303,004,25615,LEC  - Lecture,1,1,0,0,0,Janet E Finch,finch@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BLAW,3310,005,29411,LEC  - Lecture,99,100,1,0,0,Stanley Fredrick Seat,stanseat@uta.edu,COBA,245E,11:00 AM,12:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,1441,013,20385,LAB  - Laboratory,24,24,0,0,0,Sadananda Silwal,ssilwal@uta.edu,LS,207,02:00 PM,03:50 PM,N,N,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,2326,001,21415,LEC  - Lecture,25,25,0,0,0,Emily J Yates,eyates@uta.edu,FA,309,09:00 AM,09:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,3304,002,22719,LEC  - Lecture,18,25,7,0,0,Donald Schuman,schumand@uta.edu,GS,109,03:30 PM,04:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CIRP,5397,021,20038,IND  - Independent Study,1,5,4,0,0,Alejandro Rodriguez,aro@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,5391,014,28373,IND  - Independent Study,1,1,0,0,0,Wei-Jen Lee,wlee@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,FINA,5340,003,25387,LEC  - Lecture,0,0,0,0,0,,,,,,,,,,,,,,01-20-2015,05-08-2015
+2152,1,MAIN,CRCJ,4333,001,22172,LEC  - Lecture,39,60,21,0,0,Zerita Hall,zhall@uta.edu,UH,104,05:30 PM,06:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ARCH,2552,007,29337,LAB  - Laboratory,11,14,3,0,0,Heath C Macdonald,macdon@uta.edu,ARCH,218,09:00 AM,11:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,2141,006,29264,PRI  - Private Lesson,0,20,20,0,0,Rebecca M Winston,rwinston@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,6191,033,29980,IND  - Independent Study,1,2,1,0,0,Maeli Melotto,melotto@exchange.uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ENGL,5698,001,29876,THE  - Thesis Research,3,5,2,0,0,Stacy Alaimo,alaimo@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MATH,2425,200,22605,LEC  - Lecture,70,70,0,0,0,Karl Backs,kbacks@uta.edu,UH,11,11:00 AM,11:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PSYC,5698,016,25985,THE  - Thesis Research,1,30,29,0,0,Angela J Liegey-Dougall,adougall@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,4380,015,28015,IND  - Independent Study,0,10,10,0,0,Krishnan Rajeshwar,rajeshwar@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,3316,001,29403,LEC  - Lecture,60,60,0,0,0,Manfred A Cuntz,cuntz@uta.edu,LS,124,05:30 PM,06:50 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,NURS,4431,003,23175,LAB  - Laboratory,8,10,2,0,0,Claire Michelle Bergmann,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PSYC,5191,022,30776,IND  - Independent Study,1,30,29,0,0,Qing Lin,qilin@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASA,2391,024,24908,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EDAD,6699,107,29463,DTN  - Dissertation,2,10,8,0,0,Daniel B Saunders,saunders@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,5327,001,23946,LEC  - Lecture,6,15,9,0,0,Subhrangsu S Mandal,smandal@uta.edu,SH,205,09:30 AM,10:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,6699,015,27695,DTN  - Dissertation,1,2,1,0,0,Samarendra K Mohanty,smohanty@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,HIST,5698,020,27587,THE  - Thesis Research,0,5,5,0,0,Steven G Reinhardt,reinhard@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PSYC,6699,018,30407,DTN  - Dissertation,0,10,10,0,0,Daniel S Levine,levine@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,HIST,7399,005,30195,DTN  - Dissertation,1,5,4,0,0,Imre J Demhardt,demhardt@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EDAD,6699,012,24324,DTN  - Dissertation,0,5,5,0,0,Jeanne M Gerlach,gerlach@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MATH,5395,003,28091,IND  - Independent Study,1,1,0,0,0,Chaoqun Liu,cliu@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SPAN,2313,003,20991,LEC  - Lecture,24,30,6,0,0,Thelma M Cabrera,thelma.cabrera@mavs.uta.edu,SWCA,115,10:00 AM,10:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EXCH,4391,021,24822,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,1441,008,20380,LAB  - Laboratory,24,24,0,0,0,Bernadette Aguilar,bernadette.aguilar@mavs.uta.edu,LS,207,02:00 PM,03:50 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ART,1307,003,26601,LAB  - Laboratory,17,18,1,0,9,Seth A Lawrence,seth.lawrence@mavs.uta.edu,FA,290A,02:00 PM,04:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,5694,039,30162,IND  - Independent Study,2,5,3,0,0,Malik Rakhmanov,malik.rakhmanov@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CIRP,5325,001,22684,LEC  - Lecture,12,30,18,0,0,Ivonne Audirac-Zazueta,audirac@uta.edu,ARCH,330,07:00 PM,09:50 PM,N,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,FS-NURS,1300,003,23320,LEC  - Lecture,20,25,5,0,0,Melissa Lagrone,mlagrone@uta.edu,PKH,205,01:00 PM,03:50 PM,N,N,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CE,3142,003,30029,LAB  - Laboratory,15,16,1,0,0,Amir Norouzi,amir.norouzi@mavs.uta.edu,NH,B13,02:00 PM,04:50 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ART,4695,001,24393,PRA  - Practicum,5,20,15,0,10,Robert F Hower,rhower@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BSAD,6699,104,26291,DTN  - Dissertation,0,1,1,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,3251,001,21648,PRI  - Private Lesson,2,20,18,0,0,Michael L Varner,mvarner@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,NURS,5425,003,23488,LAB  - Laboratory,8,6,-2,0,0,Carol S Lieser,clieser@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MAE,3314,002,26765,LEC  - Lecture,19,45,26,0,23,Leila Choobineh,leila.choobineh@uta.edu,NH,111,09:00 AM,09:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BE,6499,001,20292,DTN  - Dissertation,0,10,10,0,0,Khosrow Behbehani,kb@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,NURS,5425,002,23485,LAB  - Laboratory,5,6,1,0,0,Diane E Snow,snow@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,UPPP,6699,017,25278,DTN  - Dissertation,1,3,2,0,0,Ivonne Audirac-Zazueta,audirac@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,SOCW,5301,006,26897,LEC  - Lecture,0,1,1,0,0,Cecilia W Mengo Jr,cecilia.mengo@mavs.uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,THEA,1342,005,28585,LEC  - Lecture,33,100,67,0,0,Laurel B Whitsett,whitsett@uta.edu,FA,258,05:30 PM,08:20 PM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,NURS,4351,012,23171,LAB  - Laboratory,8,10,2,0,0,Quainshonda Rena Suber,rsuber@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,FREN,1442,001,23903,LEC  - Lecture,8,25,17,0,0,Courtney M Griffitts,cgriffitts@uta.edu,TH,119,08:00 AM,08:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MAE,1351,006,26986,LAB  - Laboratory,47,48,1,0,24,Raul Fernandez,fernande@uta.edu,WH,406,03:00 PM,05:50 PM,N,N,N,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,ART,1301,003,29207,LEC  - Lecture,73,75,2,0,38,Debra J DeWitte,dgibney@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,INSY,5382,001,30693,IND  - Independent Study,1,1,0,0,0,Sridhar Panchapake Nerur,snerur@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CE,2312,002,22122,LAB  - Laboratory,38,45,7,0,0,Mostafa Ghandehari,ghandeha@uta.edu,NH,105,10:00 AM,11:50 AM,N,N,N,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,5398,002,23421,THE  - Thesis Research,1,10,9,0,0,Kambiz Alavi,alavi@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CE,6397,019,30431,IND  - Independent Study,2,10,8,0,0,Shih-Ho Chao,shchao@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,4458,001,21819,PRI  - Private Lesson,0,20,20,0,0,Rickey G Bogard,bogard@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MANA,2302,001,20782,LEC  - Lecture,48,50,2,0,0,Beverly A George,bhgeorge@uta.edu,COBA,254,08:00 AM,09:20 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6452,063,23094,PRA  - Practicum,1,1,0,0,0,Patricia M Lux,pattylux@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,IE,7399,012,29104,DTN  - Dissertation,0,10,10,0,0,,,,,,,,,,,,,,01-20-2015,05-08-2015
+2152,1,MAIN,PSYC,1315,007,29171,LEC  - Lecture,70,111,41,0,0,Scott L Coleman,scottc@uta.edu,LS,122,01:00 PM,01:50 PM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,5694,015,21274,IND  - Independent Study,0,10,10,0,0,Samarendra K Mohanty,smohanty@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PSYC,3314,001,22525,LEC  - Lecture,112,111,-1,0,0,William J Ickes,ickes@uta.edu,SH,121,11:00 AM,11:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,5398,025,23453,THE  - Thesis Research,0,10,10,0,0,Michael Vasilyev,vasilyev@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ME,5311,003,30210,LEC  - Lecture,1,5,4,0,0,Bo P Wang,bpwang@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ART,4391,008,30765,IND  - Independent Study,8,15,7,0,0,Mark Clive,mclive@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MANA,4340,001,20829,LEC  - Lecture,34,59,25,0,0,Beverly A George,bhgeorge@uta.edu,COBA,256,12:30 PM,01:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EXCH,2391,006,24736,IND  - Independent Study,1,5,4,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SPAN,3315,003,21361,LEC  - Lecture,20,20,0,0,0,Amy M Austin,amaustin@uta.edu,TH,01,09:30 AM,10:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CSE,1325,002,26427,LEC  - Lecture,72,75,3,0,38,Eric W Becker,becker@uta.edu,GACB,105,02:00 PM,03:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,1442,112,22403,LAB  - Laboratory,13,24,11,0,0,Bishnu P Subedi,bishnu.subedi@mavs.uta.edu,CPB,132,06:00 PM,09:50 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MAE,4344,002,26769,LEC  - Lecture,30,35,5,0,18,Saeed Reza Ghalambor,saeed.ghalambor@uta.edu,WH,406,04:00 PM,05:20 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ECON,5338,001,22368,LEC  - Lecture,12,27,15,0,0,Chi-Young Choi,cychoi@uta.edu,COBA,140,07:00 PM,09:50 PM,N,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BEEP,4687,006,24063,PRA  - Practicum,9,30,21,0,0,Claudia J Rodriguez,claudia.rodriguez@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,AE,5300,039,30543,LEC  - Lecture,5,1,-4,0,0,Ashfaq Adnan,aadnan@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,3310,102,23720,LAB  - Laboratory,16,20,4,0,0,Ralph S Gibbs,sgibbs@uta.edu,NH,148A,07:00 PM,09:50 PM,N,N,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,KINE,3301,004,27201,LAB  - Laboratory,24,24,0,0,0,Brian J Prejean,prejean@uta.edu,MAC,213,12:00 PM,12:50 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,LING,5391,018,30375,IND  - Independent Study,1,3,2,0,0,Jeffrey D Witzel,jeffrey.witzel@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CE,4352,001,22159,LEC  - Lecture,31,60,29,0,0,David I Davis,didavis@uta.edu,NH,202,01:00 PM,01:50 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,FTWC,OPMA,5361,020,26975,LEC  - Lecture,26,40,14,0,0,Michel E Whittenberg,mwhitten@uta.edu,UTASF,113,06:00 PM,10:00 PM,Y,N,N,N,N,N,N,02-28-2015,04-06-2015
+2152,1,MAIN,PSYC,5251,008,26136,IND  - Independent Study,0,30,30,0,0,Martha A Mann,mann@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,IE,5391,010,22243,IND  - Independent Study,0,10,10,0,0,Susan Ferreira,ferreira@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,TRANUTOC,1000,001,28505,LEC  - Lecture,2,0,-2,0,0,,,,,,,,,,,,,,01-20-2015,05-08-2015
+2152,1,MAIN,ME,6297,022,30132,IND  - Independent Study,1,5,4,0,0,Albert Y Tong,tong@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,7399,021,24516,DTN  - Dissertation,0,10,10,0,0,Kamisetty R Rao,rao@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CE,7399,010,30393,DTN  - Dissertation,0,10,10,0,0,Anand J Puppala,anand@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MANA,5382,001,24433,IND  - Independent Study,1,3,2,0,0,George S Benson,benson@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ARCH,5356,001,25572,LAB  - Laboratory,3,3,0,0,0,Richard S Atchison,atchison@uta.edu,ARCH,324,07:00 PM,09:50 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,HIST,4391,001,28245,IND  - Independent Study,2,5,3,0,0,William M Dulaney,dulaney@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,HIST,6690,028,26497,IND  - Independent Study,0,5,5,0,0,Thomas Adam,adam@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,1104,003,25833,LEC  - Lecture,29,30,1,0,0,Samir M Iqbal,smiqbal@uta.edu,NH,100,04:00 PM,04:50 PM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EXCH,3391,004,24756,IND  - Independent Study,1,5,4,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,165,29849,PRA  - Practicum,1,1,0,0,0,Marcus Crawford,marcus.crawford@mavs.uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,6291,014,30484,IND  - Independent Study,1,2,1,0,0,Robert F Mcmahon,r.mcmahon@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,4246,007,21747,PRI  - Private Lesson,0,20,20,0,0,Kenneth Krause,ken.krause@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,4242,001,21727,PRI  - Private Lesson,0,20,20,0,0,John Solomons,solomons@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,4244,001,21731,PRI  - Private Lesson,0,20,20,0,0,Alessandra Flanagan,alessandra.flanagan@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6851,016,23117,PRA  - Practicum,1,1,0,0,0,Bonita B Sharma,bonita.sharma@mavs.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,HONR-SC,2425,101,24236,LAB  - Laboratory,12,17,5,0,0,Scott B Lacy,scott.lacy@mavs.uta.edu,PKH,311,11:00 AM,11:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6310,001,27524,LEC  - Lecture,18,30,12,0,0,Beverly M Black,beverlyblack@uta.edu,SWCA,115,02:00 PM,04:50 PM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MANA,3318,002,20787,LEC  - Lecture,59,59,0,0,0,Janice L Baldwin,jbaldwin@uta.edu,COBA,243,09:30 AM,10:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6399,003,22953,DTN  - Dissertation,1,1,0,0,0,Beverly M Black,beverlyblack@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASA,2591,002,24913,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,1333,001,28643,LEC  - Lecture,70,72,2,0,0,Claudia P Marquez,claudia.marquez@mavs.uta.edu,LS,124,02:00 PM,02:50 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,GEOL,1301,046,30209,LEC  - Lecture,2,15,13,0,0,Qinhong Hu,maxhu@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,BIOL,1334,008,28664,LAB  - Laboratory,38,100,62,0,0,Timothy L Henry,dr.henry@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,NURS,4350,010,23155,LAB  - Laboratory,12,10,-2,0,0,Ellen M Mangold,mangold@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6452,020,23051,PRA  - Practicum,1,1,0,0,0,Patricia M Lux,pattylux@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ARCH,5329,001,24238,LEC  - Lecture,11,10,-1,0,0,Thomas V Rusher,trusher@uta.edu,ARCH,324,04:00 PM,06:50 PM,N,N,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,FINA,3315,001,20569,LEC  - Lecture,72,72,0,0,0,Trang T Thai,trang.thai@mavs.uta.edu,COBA,243,11:00 AM,12:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CRCJ,5310,001,28872,LEC  - Lecture,8,15,7,0,0,John J Rodriguez,jjrodriguez@uta.edu,UH,07,07:00 PM,09:50 PM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ME,6699,018,29829,DTN  - Dissertation,1,5,4,0,0,Bernd Chudoba,chudoba@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6452,102,29941,PRA  - Practicum,1,1,0,0,0,Marcella T Smith,marcellasmith@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,1451,103,22414,LAB  - Laboratory,24,24,0,0,0,Adam Dayoub,adam.dayoub@mavs.uta.edu,CPB,136,02:00 PM,04:50 PM,N,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASA,3391,019,24939,IND  - Independent Study,1,5,4,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,AAST,2337,001,26873,LEC  - Lecture,5,5,0,0,0,Ronnie W Liggett,liggett@uta.edu,COBA,348,09:00 AM,09:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,5694,033,21282,IND  - Independent Study,0,10,10,0,0,Kaushik De,kaushik@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ELED,4687,001,26572,LAB  - Laboratory,11,120,109,0,0,Janet Moody Melton,meltonj@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,GEOL,4189,001,22692,IND  - Independent Study,1,50,49,0,0,Qinhong Hu,maxhu@uta.edu,GS,100,04:00 PM,04:50 PM,N,N,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BSAD,6699,066,24152,DTN  - Dissertation,0,5,5,0,0,Radha Mahapatra,mahapatra@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ENGL,2329,015,21020,LEC  - Lecture,24,26,2,0,0,Barbara Chiarello,chiarello@uta.edu,COBA,236,02:00 PM,03:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PSYC,7399,007,30761,DTN  - Dissertation,0,30,30,0,0,Perry Fuchs,fuchs@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,5393,044,25230,IND  - Independent Study,0,5,5,0,0,Woo-Suk Chang,wschang@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PSYC,5600,003,24959,IND  - Independent Study,0,30,30,0,0,Yuan B Peng,ypeng@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BE,6397,005,20290,IND  - Independent Study,3,10,7,0,0,Liping Tang,ltang@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,5592,007,26258,IND  - Independent Study,0,10,10,0,0,Jongyun Heo,jheo@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,IE,7399,011,29103,DTN  - Dissertation,1,10,9,0,0,Erick C Jones,ecjones@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASA,3391,047,24973,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,FINA,6390,002,20663,SEM  - Seminar,0,5,5,0,0,Sanjiv Sabherwal,sabherwal@uta.edu,COBA,339,05:30 PM,08:20 PM,N,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,EDAD,6179,101,26499,PRA  - Practicum,1,10,9,0,0,Patricia J Casey,pjcasey@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EXCH,4391,004,24805,IND  - Independent Study,1,5,4,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,HIST,4388,008,29536,SEM  - Seminar,4,10,6,0,0,Amy S Titus,atitus@uta.edu,TH,101,11:00 AM,11:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6398,005,22950,THE  - Thesis Research,1,1,0,0,0,Peter Lehmann,plehmann@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,NURS,5170,009,28387,IND  - Independent Study,0,3,3,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,BIOL,1334,009,28665,LEC  - Lecture,0,30,30,0,0,Timothy L Henry,dr.henry@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,4181,005,20036,IND  - Independent Study,2,5,3,0,0,Sangwook Park,s.park@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,MATH,0302,088,26948,LEC  - Lecture,30,225,195,0,0,Darlene B Campbell,dcampbell@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,GEOL,1330,001,22672,LEC  - Lecture,20,48,28,0,0,Arne M Winguth,awinguth@uta.edu,GS,104,12:30 PM,01:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASA,4391,031,25032,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,6391,023,27579,IND  - Independent Study,1,5,4,0,0,Matthew Walsh,matthew.walsh@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MATH,2425,202,24232,LAB  - Laboratory,33,35,2,0,0,Junwei Sun,junwei.sun@mavs.uta.edu,PKH,319,01:00 PM,01:50 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASA,3391,020,24940,IND  - Independent Study,1,5,4,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CSE,5329,033,29587,LEC  - Lecture,20,30,10,0,15,David C Kung,kung@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,1441,117,30007,LAB  - Laboratory,24,24,0,0,0,Mohammad Kabir Hossain,mohammadkhossain@mavs.uta.edu,CPB,105,06:00 PM,09:50 PM,N,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,067,26054,PRA  - Practicum,1,1,0,0,0,Bonita B Sharma,bonita.sharma@mavs.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PSYC,4381,004,24539,IND  - Independent Study,3,30,27,0,0,Heekyeong Park,hkpark@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MATH,7399,001,27798,DTN  - Dissertation,1,1,0,0,0,Dimitar Grantcharov,grandim@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ECON,2306,005,22349,LEC  - Lecture,36,100,64,0,0,Malcolm Kass,mkass@uta.edu,COBA,147,02:00 PM,03:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6394,008,26383,IND  - Independent Study,1,1,0,0,0,John C Bricout,johnbricout@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MATH,1426,301,22596,LAB  - Laboratory,38,35,-3,0,0,Wilber A Ventura,wilber.ventura@mavs.uta.edu,PKH,305,11:00 AM,11:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,GEOL,2446,011,22677,LAB  - Laboratory,16,20,4,0,0,,,GS,207,12:00 PM,02:50 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ENGL,2303,007,20986,LEC  - Lecture,42,42,0,0,0,Nancy F England,nrosenberg@uta.edu,TH,115,10:00 AM,10:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,FINA,4311,001,20574,LEC  - Lecture,15,40,25,0,0,Gregory J Feigel,feigel@uta.edu,COBA,251,05:30 PM,06:50 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PORT,3304,001,26849,LEC  - Lecture,5,15,10,0,0,Lucina Kuusisto,lucina.kuusisto@mavs.uta.edu,TH,212,09:00 AM,09:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,3246,007,21625,PRI  - Private Lesson,0,20,20,0,0,Kenneth Krause,ken.krause@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,5692,010,24601,IND  - Independent Study,1,10,9,0,0,Peter Kroll,pkroll@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,COMS,3310,001,20560,LEC  - Lecture,23,28,5,0,0,Karishma Chatterjee,chatterjee@uta.edu,FA,309,02:00 PM,03:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,1442,110,22401,LAB  - Laboratory,0,0,0,0,0,,,CPB,134,08:00 AM,11:50 AM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6452,042,23073,PRA  - Practicum,1,1,0,0,0,Marcus Crawford,marcus.crawford@mavs.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BE,5291,002,20221,IND  - Independent Study,0,5,5,0,0,Cheng-Jen Chuong,chuong@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CIRP,5391,012,26451,IND  - Independent Study,0,3,3,0,0,Yekang Ko,yekangko@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EXCH,2391,017,24747,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,5592,009,26260,IND  - Independent Study,0,10,10,0,0,Kayunta Johnson-Winters,kayunta@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6452,078,26114,PRA  - Practicum,1,1,0,0,0,Brandi J Felderhoff,brandi.felderhoff@mavs.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,AE,5363,001,30180,LEC  - Lecture,2,20,18,0,10,Dudley Edington Smith,dudleys@uta.edu,WH,311,09:00 AM,09:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MAE,4351,001,21049,LEC  - Lecture,37,55,18,0,28,Bernd Chudoba,chudoba@uta.edu,NH,109,08:00 AM,08:50 AM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,ME,5317,003,30789,LEC  - Lecture,1,1,0,0,0,,,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,NURS,3481,013,23244,LAB  - Laboratory,9,10,1,0,0,Jeffrey A Robbins,jrobbins@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CE,1105,002,22115,LAB  - Laboratory,21,60,39,0,0,Ernest C Crosby,ecrosby@uta.edu,NH,203,01:00 PM,03:50 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PUAD,6399,010,25543,DTN  - Dissertation,0,3,3,0,0,Richard L Cole,cole@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,NURS,5303,012,27330,LAB  - Laboratory,7,7,0,0,0,Marcia M Harris,mmharris@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,AAST,4391,001,26881,IND  - Independent Study,1,5,4,0,0,Schnavia S Hatcher,shatcher@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,GEOL,1302,015,22665,LAB  - Laboratory,23,30,7,0,0,Cornelia Winguth,cwinguth@uta.edu,GS,246,01:30 PM,02:50 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6452,095,27912,PRA  - Practicum,1,1,0,0,0,Marcus Crawford,marcus.crawford@mavs.uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BEEP,5391,001,29894,IND  - Independent Study,0,2,2,0,0,Luis A Rosado,rosado@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,NURS,5430,005,23499,LAB  - Laboratory,6,6,0,0,0,Bethany Mcclean,mcclean@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,COMM,3303,002,20510,LEC  - Lecture,20,20,0,0,0,Roby B Mceuen,roby@uta.edu,FA,404,09:30 AM,10:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EDAD,6399,111,29455,DTN  - Dissertation,0,10,10,0,0,Yi Zhang,lyzhang@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,5698,012,23627,THE  - Thesis Research,1,10,9,0,0,Sungyong Jung,jung@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,CE,5383,002,29616,LEC  - Lecture,0,10,10,0,0,Yeonho Park,yeonho.park@mavs.uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6190,001,22896,IND  - Independent Study,1,1,0,0,0,Alexa Smith-Osborne,alexaso@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,195,30228,PRA  - Practicum,0,1,1,0,0,,,,,,,,,,,,,,01-20-2015,05-08-2015
+2152,1,MAIN,ECON,3301,001,29509,LEC  - Lecture,59,59,0,0,0,Donald C Blackburn,dblack@uta.edu,COBA,241,09:00 AM,10:20 AM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EXCH,5691,003,24840,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,138,29740,PRA  - Practicum,1,1,0,0,0,Marcella T Smith,marcellasmith@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ART,3354,002,28807,LAB  - Laboratory,0,18,18,0,9,,,FA,357,06:00 PM,08:50 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,043,23019,PRA  - Practicum,1,1,0,0,0,Arati Maleku,arati.maleku@mavs.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,IE,5302,003,28974,LEC  - Lecture,0,10,10,0,0,Sheik N Imrhan,imrhan@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EXCH,1391,005,24708,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,NURS,4581,002,23202,LEC  - Lecture,58,60,2,0,0,Mary B Reid,maryreid@uta.edu,PKH,102,01:00 PM,03:50 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EXCH,1491,015,24726,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,IE,5317,002,23765,LEC  - Lecture,4,10,6,0,0,Jay Michael Rosenberger,jrosenbe@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,AE,5101,002,20319,SEM  - Seminar,9,20,11,0,10,Ashfaq Adnan,aadnan@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,POLS,5698,001,27960,THE  - Thesis Research,1,1,0,0,0,Rebecca Deen,deen@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASA,2391,004,24888,IND  - Independent Study,1,5,4,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,5122,001,21841,PRI  - Private Lesson,0,20,20,0,0,Linton E Powell Jr,powell@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ACCT,5341,001,22338,LEC  - Lecture,19,37,18,0,0,John S Repsis,jsrepsis@uta.edu,COBA,140,07:00 PM,09:50 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,5331,001,20483,LEC  - Lecture,5,15,10,0,0,Shawn Christensen,shawnc@uta.edu,LS,100,05:30 PM,06:50 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,111,28041,PRA  - Practicum,1,1,0,0,0,Laura S Frank,laura.frank@mavs.uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EVSE,6399,010,24696,DTN  - Dissertation,0,5,5,0,0,Paul Chippindale,paulc@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,136,29738,PRA  - Practicum,1,1,0,0,0,Arati Maleku,arati.maleku@mavs.uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,POLS,4392,002,28887,LEC  - Lecture,35,36,1,0,0,Ayten Burcu Bayram,abbayram@uta.edu,LS,101,07:00 PM,09:50 PM,Y,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,FTWC,EMBA,5309,001,25235,LEC  - Lecture,10,0,-10,0,0,Jiachu Song,jsong@exchange.uta.edu,UTASF,122,01:00 PM,08:00 PM,N,N,N,N,Y,N,N,03-20-2015,05-07-2015
+2152,1,MAIN,NURS,5270,003,25311,IND  - Independent Study,0,4,4,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,FREN,1442,004,23906,LEC  - Lecture,16,25,9,0,0,Courtney M Griffitts,cgriffitts@uta.edu,SWCA,316,11:00 AM,11:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MSE,7399,036,29824,DTN  - Dissertation,0,5,5,0,0,Choong-Un Kim,choongun@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PSYC,5391,003,24960,IND  - Independent Study,0,30,30,0,0,Yuan B Peng,ypeng@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6451,041,23017,PRA  - Practicum,1,1,0,0,0,Arati Maleku,arati.maleku@mavs.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ECON,2305,004,22343,LEC  - Lecture,100,100,0,0,0,Jane S Himarios,jhimarios@uta.edu,COBA,142,09:30 AM,10:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6346,001,22901,PRA  - Practicum,0,1,1,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ARCH,2552,003,29333,LAB  - Laboratory,12,13,1,0,0,George T Gintole,j.george.g@uta.edu,ARCH,410,09:00 AM,11:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASTR,1346,002,28693,LEC  - Lecture,44,150,106,0,0,Fajer B Jaafari,fajer@uta.edu,SH,100,02:00 PM,02:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EXCH,1491,011,24722,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,NURS,3632,012,23315,LAB  - Laboratory,10,10,0,0,0,Nancy J Bertram,nbertram@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,2457,009,20422,LAB  - Laboratory,24,24,0,0,0,Joshua Loren Madden,joshua.madden@mavs.uta.edu,LS,435,10:00 AM,11:50 AM,N,N,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,3446,001,29634,LEC  - Lecture,23,36,13,0,0,Andrew G Brandt,brandta@uta.edu,SH,205,11:00 AM,12:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MANA,2302,003,20784,LEC  - Lecture,23,50,27,0,0,Patricia L Crisp,pcrisp@uta.edu,COBA,254,11:00 AM,11:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6851,003,23104,PRA  - Practicum,1,1,0,0,0,Patricia M Lux,pattylux@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MARK,4335,001,28988,LEC  - Lecture,12,46,34,0,0,Elten D Briggs,ebriggs@uta.edu,COBA,253,08:00 AM,09:20 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,7399,014,30483,DTN  - Dissertation,1,5,4,0,0,Bradley S Pierce,bspierce@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,1442,105,22396,LAB  - Laboratory,24,24,0,0,0,Hope Gloria Umutesi,hopegloria.umutesi@mavs.uta.edu,CPB,132,01:00 PM,04:50 PM,N,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EE,6697,007,23561,IND  - Independent Study,0,10,10,0,0,Wendell A Davis,adavis@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,6699,001,22511,DTN  - Dissertation,2,5,3,0,0,Daniel W Armstrong,sec4dwa@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CE,6697,003,30632,IND  - Independent Study,1,10,9,0,0,Melanie L Sattler,msattler@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PREL,3355,002,20626,LEC  - Lecture,20,20,0,0,0,Mindia H Whittier,whittier@uta.edu,FA,414,02:00 PM,03:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,4392,017,25987,IND  - Independent Study,0,10,10,0,0,Timothy J Ishii,tishii@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MARK,5320,001,21138,LEC  - Lecture,14,20,6,0,0,Michael T Richarme,richarme@uta.edu,COBA,235,05:30 PM,06:50 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,4179,032,25360,IND  - Independent Study,3,5,2,0,0,Jill Devito,jilldevito@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHIN,2314,001,20926,LEC  - Lecture,11,25,14,0,0,Szu-Yen Liang,syliang@uta.edu,TH,21,09:30 AM,10:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ART,5320,003,29394,LEC  - Lecture,0,10,10,0,5,,,,,,,,,,,,,,01-20-2015,05-08-2015
+2152,1,MAIN,EVSE,5320,001,22698,LEC  - Lecture,1,15,14,0,0,Ashley M Purgason,purgason@uta.edu,PKH,319,04:00 PM,05:20 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,GEOL,1301,145,22657,LAB  - Laboratory,30,30,0,0,0,Cornelia Winguth,cwinguth@uta.edu,GS,243,02:00 PM,03:20 PM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,INSY,5375,082,30782,LEC  - Lecture,40,0,-40,0,0,Radha Mahapatra,mahapatra@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,AE,5398,029,29875,THE  - Thesis Research,2,5,3,0,0,Dereje Agonafer,agonafer@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EXCH,1391,003,24706,IND  - Independent Study,1,5,4,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BE,5698,015,30511,THE  - Thesis Research,1,10,9,0,0,Jung-Chih Chiao,jcchiao@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,6699,007,25925,DTN  - Dissertation,1,10,9,0,0,Jongyun Heo,jheo@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,KINE,5394,002,25276,IND  - Independent Study,2,10,8,0,0,Cynthia Trowbridge,ctrowbridge@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MATH,5391,002,27554,IND  - Independent Study,3,5,2,0,0,Yue Liu,yliu@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,4380,014,26298,IND  - Independent Study,1,5,4,0,0,Bradley S Pierce,bspierce@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,NURS,3561,013,23231,LAB  - Laboratory,10,10,0,0,0,Becky M Baird,becky.baird@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,6999,011,21313,DTN  - Dissertation,0,10,10,0,0,Amir Farbin,afarbin@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASTR,1346,010,28701,LAB  - Laboratory,22,28,6,0,0,James J Davis,james.davis@uta.edu,SH,127,02:00 PM,03:50 PM,N,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,5351,001,28746,LEC  - Lecture,8,10,2,0,0,Thomas Chrzanowski,chrz@uta.edu,SH,103,12:30 PM,01:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,INSY,3303,002,20763,LEC  - Lecture,38,40,2,0,0,Jingguo Wang,jwang@uta.edu,COBA,142,05:30 PM,06:50 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6380,002,28907,LEC  - Lecture,25,25,0,0,0,Donald Schuman,schumand@uta.edu,SWCA,316,07:00 PM,09:50 PM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,AAST,3339,001,29501,LEC  - Lecture,5,5,0,0,0,Krystal K Beamon,kbeamon@uta.edu,UH,104,11:00 AM,12:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CE,5698,003,30386,THE  - Thesis Research,2,10,8,0,0,Melanie L Sattler,msattler@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,6691,020,26271,IND  - Independent Study,0,5,5,0,0,Paul Chippindale,paulc@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6452,105,29944,PRA  - Practicum,1,1,0,0,0,Marcella T Smith,marcellasmith@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,GEOL,5365,002,30285,SEM  - Seminar,3,5,2,0,0,Asish R Basu,abasu@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ART,5683,001,20207,LEC  - Lecture,4,20,16,0,10,Dwain Y Smith,yake@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,NURS,4431,013,23185,LAB  - Laboratory,8,10,2,0,0,Amy D Madsen,amadsen@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,4454,001,21793,PRI  - Private Lesson,0,20,20,0,0,Alessandra Flanagan,alessandra.flanagan@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,EXCH,4391,005,24806,IND  - Independent Study,1,5,4,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,4244,004,21734,PRI  - Private Lesson,1,20,19,0,0,Jack A Unzicker,unzicker@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CHEM,5300,002,30142,LEC  - Lecture,0,0,0,0,0,Frederick M Macdonnell,macdonn@uta.edu,SH,205,09:30 AM,10:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,GEOL,1302,019,28593,LAB  - Laboratory,20,30,10,0,0,Cornelia Winguth,cwinguth@uta.edu,GS,246,06:30 PM,07:50 PM,N,N,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,FREN,1441,022,23902,LEC  - Lecture,21,25,4,0,0,Brooke A Cunningham,brooke.cunningham@mavs.uta.edu,TH,216,09:00 AM,10:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MAE,4344,001,20370,LEC  - Lecture,36,35,-1,0,18,Kent L Lawrence,lawrence@uta.edu,WH,406,09:30 AM,10:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ART,3310,001,20193,LEC  - Lecture,45,55,10,0,28,Stephen Lapthisophon,stephenl@uta.edu,FA,148,04:00 PM,05:20 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,1333,007,28649,LAB  - Laboratory,23,24,1,0,0,Michael Kevin Gillis,gillis@uta.edu,LS,201,07:00 PM,08:50 PM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MSE,5392,002,30699,IND  - Independent Study,1,5,4,0,0,Pranesh B Aswath,aswath@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,NURS,5370,070,28323,IND  - Independent Study,0,2,2,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,MANA,5340,006,26414,LEC  - Lecture,0,0,0,0,0,,,,,,,,,,,,,,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6452,070,23101,PRA  - Practicum,1,1,0,0,0,Bonita B Sharma,bonita.sharma@mavs.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BSAD,6399,072,24144,DTN  - Dissertation,1,5,4,0,0,Jie Zhang,jiezhang@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,6291,010,30487,IND  - Independent Study,1,3,2,0,0,Laura Gough,gough@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6851,032,23133,PRA  - Practicum,0,1,1,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ENGL,1302,053,20921,LEC  - Lecture,24,24,0,0,0,Johansen Quijano,johansen.quijano@mavs.uta.edu,PH,302,12:30 PM,01:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MAE,3344,003,25666,LAB  - Laboratory,30,30,0,0,15,Robert M Taylor,taylorrm@uta.edu,WH,311,01:00 PM,03:50 PM,N,N,N,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,INTD,4563,001,28801,LAB  - Laboratory,12,15,3,0,0,Susan I Appleton,appleton@uta.edu,ARCH,301,09:00 AM,11:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BIOL,2457,007,20420,LAB  - Laboratory,24,24,0,0,0,Cameron Dodd,cameron.dodd@mavs.uta.edu,LS,435,10:00 AM,11:50 AM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,POLS,4393,001,27913,PRA  - Practicum,2,10,8,0,0,Daniel D Sledge,dsledge@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,NURS,6621,001,23542,PRA  - Practicum,1,5,4,0,0,Sharolyn Kay Dihigo,sdihigo@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MARK,5327,001,21140,LEC  - Lecture,10,37,27,0,0,Robert D Rogers,rrogers@uta.edu,COBA,141,05:30 PM,06:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,BCOM,3360,005,23849,LEC  - Lecture,45,46,1,0,0,Michael A Buckman,buckman@uta.edu,COBA,253,09:00 AM,12:00 PM,N,N,N,N,N,Y,N,01-20-2015,05-08-2015
+2152,1,MAIN,ASA,2391,006,24890,IND  - Independent Study,0,5,5,0,0,,,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MATH,3307,001,22615,LEC  - Lecture,40,60,20,0,0,David Smith Jr,davidsmith@uta.edu,PKH,105,10:00 AM,10:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,5306,009,27523,LEC  - Lecture,23,25,2,0,0,Patricia Blair Newlin,newlinp@uta.edu,SWCA,217,08:00 AM,10:50 AM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,INSY,5375,080,30053,LEC  - Lecture,50,0,-50,0,0,Manjeri K Raja,raja@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,6699,017,30067,DTN  - Dissertation,1,5,4,0,0,Muhammad N Huda,huda@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,5323,001,21886,PRI  - Private Lesson,1,20,19,0,0,Linton E Powell Jr,powell@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ENGR,3100,001,24318,PRA  - Practicum,1,30,29,0,0,Lynn Peterson,peterson@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SCIE,4607,001,26673,PRA  - Practicum,35,60,25,0,0,Karen J Matsler,kmatsler@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SOCW,6452,004,23035,PRA  - Practicum,1,1,0,0,0,Bonita B Sharma,bonita.sharma@mavs.uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ME,5311,001,20305,LEC  - Lecture,19,30,11,0,15,Bo P Wang,bpwang@uta.edu,WH,221,12:30 PM,01:50 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,3252,001,21651,PRI  - Private Lesson,0,20,20,0,0,Brian T Mulholland,bmulholland@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CRCJ,5396,002,24440,IND  - Independent Study,3,5,2,0,0,Jaya B Davis,jbdavis@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,INTS,4301,002,22670,LEC  - Lecture,10,13,3,0,0,Donna L Akers,donna.akers@uta.edu,LS,424,11:00 AM,12:20 PM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,IE,6999,001,22285,DTN  - Dissertation,0,10,10,0,0,Donald H Liles,dliles@uta.edu,,,12:00 AM,12:00 AM,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,ART,4391,005,28102,IND  - Independent Study,1,5,4,0,3,Benito H Lozano,bhuerta@uta.edu,,,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MUSI,4309,001,28961,PRA  - Practicum,10,30,20,0,0,Karen Kenaston-French,kenaston@uta.edu,FA,106,09:30 AM,10:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,SPAN,2313,002,20989,LEC  - Lecture,12,30,18,0,0,Rosa Barrett,rosa.barrett@mavs.uta.edu,TH,218,09:00 AM,09:50 AM,Y,N,Y,N,Y,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,MATH,2425,321,25643,LAB  - Laboratory,27,25,-2,0,0,Anthony Mastriania,anthony.mastriania@mavs.uta.edu,PKH,305,10:00 AM,10:50 AM,N,Y,N,Y,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,CE,5330,001,25444,LEC  - Lecture,10,20,10,0,0,Shahram Bohluli,shahram.bohluli@uta.edu,WH,210,07:00 PM,08:20 PM,Y,N,Y,N,N,N,N,01-20-2015,05-08-2015
+2152,1,MAIN,PHYS,1444,007,21203,LAB  - Laboratory,34,35,1,0,0,Kamyar Ahmadi Majlan,kamyar.ahmadimajlan@mavs.uta.edu,SH,119,01:00 PM,03:50 PM,N,Y,N,N,N,N,N,01-20-2015,05-08-2015
+2152,1,OFF-C,BIOL,1333,013,28655,LEC  - Lecture,0,1,1,0,0,Timothy L Henry,dr.henry@uta.edu,OFF,WEB,,,N,N,N,N,N,N,N,01-20-2015,05-08-2015
